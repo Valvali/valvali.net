@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>freeware on Vali</title>
+    <link>http://valvali.net/tags/freeware/</link>
+    <description>Recent content in freeware on Vali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 07 Mar 2021 18:22:18 +0100</lastBuildDate><atom:link href="http://valvali.net/tags/freeware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les recommandations gratos de JV de Vali</title>
+      <link>http://valvali.net/posts/freegames/</link>
+      <pubDate>Sun, 07 Mar 2021 18:22:18 +0100</pubDate>
+      
+      <guid>http://valvali.net/posts/freegames/</guid>
+      <description>Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j&amp;rsquo;ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.
+Dwarf Fortress Difficile de faire une liste de jeux gratuits sans évoquer Dwarf Fortress, ce jeu de gestion a inspiré une douzaine de titres comme Minecraft, Rimworld ou autres.</description>
+    </item>
+    
+  </channel>
+</rss>

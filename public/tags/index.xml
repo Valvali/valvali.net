@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Vali</title>
+    <link>http://valvali.net/tags/</link>
+    <description>Recent content in Tags on Vali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 07 Mar 2021 18:22:18 +0100</lastBuildDate><atom:link href="http://valvali.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>freeware</title>
+      <link>http://valvali.net/tags/freeware/</link>
+      <pubDate>Sun, 07 Mar 2021 18:22:18 +0100</pubDate>
+      
+      <guid>http://valvali.net/tags/freeware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jeux vidéos</title>
+      <link>http://valvali.net/tags/jeux-vid%C3%A9os/</link>
+      <pubDate>Sun, 07 Mar 2021 18:22:18 +0100</pubDate>
+      
+      <guid>http://valvali.net/tags/jeux-vid%C3%A9os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cyberpunk</title>
+      <link>http://valvali.net/tags/cyberpunk/</link>
+      <pubDate>Tue, 19 Jan 2021 19:31:21 +0100</pubDate>
+      
+      <guid>http://valvali.net/tags/cyberpunk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jeu vidéo</title>
+      <link>http://valvali.net/tags/jeu-vid%C3%A9o/</link>
+      <pubDate>Tue, 19 Jan 2021 19:31:21 +0100</pubDate>
+      
+      <guid>http://valvali.net/tags/jeu-vid%C3%A9o/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

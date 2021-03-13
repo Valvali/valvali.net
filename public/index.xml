@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vali</title>
+    <link>http://valvali.net/</link>
+    <description>Recent content on Vali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 07 Mar 2021 18:22:18 +0100</lastBuildDate><atom:link href="http://valvali.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les recommandations gratos de JV de Vali</title>
+      <link>http://valvali.net/posts/freegames/</link>
+      <pubDate>Sun, 07 Mar 2021 18:22:18 +0100</pubDate>
+      
+      <guid>http://valvali.net/posts/freegames/</guid>
+      <description>Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j&amp;rsquo;ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.
+Dwarf Fortress Difficile de faire une liste de jeux gratuits sans évoquer Dwarf Fortress, ce jeu de gestion a inspiré une douzaine de titres comme Minecraft, Rimworld ou autres.</description>
+    </item>
+    
+    <item>
+      <title>Cyberpunk 2077 vu par un boloss</title>
+      <link>http://valvali.net/posts/cyberpunk/</link>
+      <pubDate>Tue, 19 Jan 2021 19:31:21 +0100</pubDate>
+      
+      <guid>http://valvali.net/posts/cyberpunk/</guid>
+      <description>(C’est pas un test il n’y aura pas de note à la fin calmez vous) Le moment qui m’a le plus marqué dans Cyberpunk 2077 était les funérailles de mon meilleur ami. Alors que chaque personnage était en train de faire face à son deuil, ils ont arrêté d&amp;rsquo;être des amas de pixels pour devenir de vraies personnes le temps d’un moment triste et joyeux à la fois, un moment de recueil et de souvenir.</description>
+    </item>
+    
+    <item>
+      <title>Vali</title>
+      <link>http://valvali.net/about/about/</link>
+      <pubDate>Sun, 17 Jan 2021 20:11:22 +0100</pubDate>
+      
+      <guid>http://valvali.net/about/about/</guid>
+      <description>On m&amp;rsquo;appelle Vali, j&amp;rsquo;ai 24 ans et j&amp;rsquo;aime les meme, la malbouffe et les Jeux Vidéos. Quelquefois j&amp;rsquo;écris des trucs.
+ &amp;ldquo;Vous savez, moi je ne crois pas qu&amp;rsquo;il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd&amp;rsquo;hui avec vous, je dirais que c&amp;rsquo;est d&amp;rsquo;abord des rencontres. Des gens qui m&amp;rsquo;ont tendu la main, peut-être à un moment où je ne pouvais pas, où j&amp;rsquo;étais seul chez moi.</description>
+    </item>
+    
+  </channel>
+</rss>
