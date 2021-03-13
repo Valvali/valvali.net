@@ -172,6 +172,13 @@ Débutée vers la fin des années 90, la série de jeux Thief vous mettait dans 
 
 Disponible sur https://www.thedarkmod.com/main/ 
 
+## Veloren
+![Veloren](/img/veloren.png)
+
+Vous vous vous souvenez de Cube World ? Le RPG en voxel avec une alpha prometteuse qui avait disparu pendant des années avant de réapparaître claqué au sol ? Veloren c'est la même chose mais en plus ambitieux et totalement gratuit et open source. Le jeu a beau être en alpha il est deja très sympathique et a un développement très actif.
+
+Disponible sur https://veloren.net/ (En anglais uniquement pour le moment)
+
 ## The Genesis Project
 
 ![The Genesis Project](/img/genesisproject.png)
