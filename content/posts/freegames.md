@@ -177,7 +177,7 @@ Disponible sur https://www.thedarkmod.com/main/
 
 Vous vous vous souvenez de Cube World ? Le RPG en voxel avec une alpha prometteuse qui avait disparu pendant des années avant de réapparaître claqué au sol ? Veloren c'est la même chose mais en plus ambitieux et totalement gratuit et open source. Le jeu a beau être en alpha il est deja très sympathique et a un développement très actif.
 
-Disponible sur https://veloren.net/ (En anglais uniquement pour le moment)
+Disponible sur https://veloren.net/ (Traduction FR disponible)
 
 ## The Genesis Project
 
