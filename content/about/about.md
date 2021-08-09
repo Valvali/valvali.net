@@ -11,7 +11,7 @@ On m'appelle Vali, j'ai 25 ans et j'aime les meme, la malbouffe et les Jeux Vid�
 
 ## Les copains/copines
 
-- [oräkle](https://www.orakle.eu/) : développeuse python, MUITO REAL
+- [oräkle](https://www.orakle.eu/) : sysadmin en formation, MUITO REAL
 
 - [onf](https://eymj.fr/) : graphiste / game designer / jean-libriste / connard ADHD
 
