@@ -1,17 +1,18 @@
 baseURL = "http://valvali.net/"
 languageCode = "fr-fr"
 title = "Vali"
-theme = "hello-friend-ng"
+theme = "hello-friend"
 paginate     = 10
 
 [params]
+  AuthorName = 'Vali'
   dateform        = "Jan 17, 2021"
   dateformShort   = "Jan 2"
   dateformNum     = "2021-17-01"
   dateformNumTime = "2021-17-01 19:51"
 
   # Subtitle for home
-  homeSubtitle = "Un gars sur Internet."
+  Subtitle = "Un gars sur Internet."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -66,7 +67,3 @@ paginate     = 10
     identifier = "posts"
     name       = "Trucs"
     url        = "/posts"
-[[menu.main]]
-    identifier = "webring"
-    name       = "Webring"
-    url        = "https://webring.controlistes.fr/"

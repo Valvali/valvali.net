@@ -1,7 +1,7 @@
 ---
 title: "Second Souffle GTA RP : Mon expérience"
 date: 2021-08-09T18:46:43+02:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
@@ -9,6 +9,10 @@ tags:
   - jeux vidéos
 
 ---
+
+**DISCLAIMER :** Cet article à été écrit avant la sortie des [accusations](https://twitter.com/anon123004/status/1618678516207468545) vis à vis de 123lunatic et ne les cautionne pas ni ne le défend.
+
+
 ![Logo Second Souffle](/img/secondsouffle.jpg)
 
 Il y a quelques semaines, je me retrouvais sur un malentendu invité à participer a un GTA RP un peu spécial. Si vous me lisez-vous avez déjà probablement entendu parler de RPZ, le phénomène qui a enflammé la toile pendant 2 semaines avec de nombreux influenceurs participant et ayant engendré nombres discussions, fanart et autres. Eh bien une équipe de passionnés et de streamers un peu moins gros ainsi que d'autres non streamers ont voulu les émuler en lançant Second Souffle, une expérience GTA RP similaire au ZRP mais avec une grande différence. Votre serviteur pouvait y participer !
