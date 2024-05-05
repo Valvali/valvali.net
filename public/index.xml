@@ -2,19 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vali</title>
+    
+    
+    
     <link>http://valvali.net/</link>
     <description>Recent content on Vali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 09 Aug 2021 18:46:43 +0200</lastBuildDate><atom:link href="http://valvali.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 18:46:43 +0200</lastBuildDate>
+    
+	<atom:link href="http://valvali.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Second Souffle GTA RP : Mon expérience</title>
       <link>http://valvali.net/posts/secondsouffle/</link>
       <pubDate>Mon, 09 Aug 2021 18:46:43 +0200</pubDate>
       
       <guid>http://valvali.net/posts/secondsouffle/</guid>
-      <description>Il y a quelques semaines, je me retrouvais sur un malentendu invité à participer a un GTA RP un peu spécial. Si vous me lisez-vous avez déjà probablement entendu parler de RPZ, le phénomène qui a enflammé la toile pendant 2 semaines avec de nombreux influenceurs participant et ayant engendré nombres discussions, fanart et autres. Eh bien une équipe de passionnés et de streamers un peu moins gros ainsi que d&amp;rsquo;autres non streamers ont voulu les émuler en lançant Second Souffle, une expérience GTA RP similaire au ZRP mais avec une grande différence.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          DISCLAIMER : Cet article à été écrit avant la sortie des accusations vis à vis de 123lunatic et ne les cautionne pas ni ne le défend.
+Il y a quelques semaines, je me retrouvais sur un malentendu invité à participer a un GTA RP un peu spécial. Si vous me lisez-vous avez déjà probablement entendu parler de RPZ, le phénomène qui a enflammé la toile pendant 2 semaines avec de nombreux influenceurs participant et ayant engendré nombres discussions, fanart et autres.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -23,8 +42,19 @@
       <pubDate>Sun, 07 Mar 2021 18:22:18 +0100</pubDate>
       
       <guid>http://valvali.net/posts/freegames/</guid>
-      <description>Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j&amp;rsquo;ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.
-Dwarf Fortress Difficile de faire une liste de jeux gratuits sans évoquer Dwarf Fortress, ce jeu de gestion a inspiré une douzaine de titres comme Minecraft, Rimworld ou autres.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j&amp;rsquo;ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.
+Dwarf Fortress # Difficile de faire une liste de jeux gratuits sans évoquer Dwarf Fortress, ce jeu de gestion a inspiré une douzaine de titres comme Minecraft, Rimworld ou autres.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -33,7 +63,18 @@ Dwarf Fortress Difficile de faire une liste de jeux gratuits sans évoquer Dwarf
       <pubDate>Tue, 19 Jan 2021 19:31:21 +0100</pubDate>
       
       <guid>http://valvali.net/posts/cyberpunk/</guid>
-      <description>(C’est pas un test il n’y aura pas de note à la fin calmez vous) Le moment qui m’a le plus marqué dans Cyberpunk 2077 était les funérailles de mon meilleur ami. Alors que chaque personnage était en train de faire face à son deuil, ils ont arrêté d&amp;rsquo;être des amas de pixels pour devenir de vraies personnes le temps d’un moment triste et joyeux à la fois, un moment de recueil et de souvenir.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          (C’est pas un test il n’y aura pas de note à la fin calmez vous) # Le moment qui m’a le plus marqué dans Cyberpunk 2077 était les funérailles de mon meilleur ami. Alors que chaque personnage était en train de faire face à son deuil, ils ont arrêté d&amp;rsquo;être des amas de pixels pour devenir de vraies personnes le temps d’un moment triste et joyeux à la fois, un moment de recueil et de souvenir.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -42,8 +83,19 @@ Dwarf Fortress Difficile de faire une liste de jeux gratuits sans évoquer Dwarf
       <pubDate>Sun, 17 Jan 2021 20:11:22 +0100</pubDate>
       
       <guid>http://valvali.net/about/about/</guid>
-      <description>On m&amp;rsquo;appelle Vali, j&amp;rsquo;ai 25 ans et j&amp;rsquo;aime les meme, la malbouffe et les Jeux Vidéos. Quelquefois j&amp;rsquo;écris des trucs.
- &amp;ldquo;Vous savez, moi je ne crois pas qu&amp;rsquo;il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd&amp;rsquo;hui avec vous, je dirais que c&amp;rsquo;est d&amp;rsquo;abord des rencontres. Des gens qui m&amp;rsquo;ont tendu la main, peut-être à un moment où je ne pouvais pas, où j&amp;rsquo;étais seul chez moi.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          On m&amp;rsquo;appelle Vali, j&amp;rsquo;ai 26 ans et j&amp;rsquo;aime les meme, la malbouffe et les Jeux Vidéos. Quelquefois j&amp;rsquo;écris des trucs.
+&amp;ldquo;Vous savez, moi je ne crois pas qu&amp;rsquo;il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd&amp;rsquo;hui avec vous, je dirais que c&amp;rsquo;est d&amp;rsquo;abord des rencontres. Des gens qui m&amp;rsquo;ont tendu la main, peut-être à un moment où je ne pouvais pas, où j&amp;rsquo;étais seul chez moi.
+          
+        
+        </description>
     </item>
     
   </channel>

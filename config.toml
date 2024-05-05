@@ -1,7 +1,7 @@
-baseURL = "http://valvali.net/"
+baseURL = "https://valvali.net/"
 languageCode = "fr-fr"
 title = "Vali"
-theme = "hello-friend"
+theme = "hello-friend-ng"
 paginate     = 10
 
 [params]

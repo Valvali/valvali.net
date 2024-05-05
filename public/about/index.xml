@@ -2,20 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Vali</title>
+    
+    
+    
     <link>http://valvali.net/about/</link>
     <description>Recent content in Abouts on Vali</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 17 Jan 2021 20:11:22 +0100</lastBuildDate><atom:link href="http://valvali.net/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jan 2021 20:11:22 +0100</lastBuildDate>
+    
+	<atom:link href="http://valvali.net/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Vali</title>
       <link>http://valvali.net/about/about/</link>
       <pubDate>Sun, 17 Jan 2021 20:11:22 +0100</pubDate>
       
       <guid>http://valvali.net/about/about/</guid>
-      <description>On m&amp;rsquo;appelle Vali, j&amp;rsquo;ai 25 ans et j&amp;rsquo;aime les meme, la malbouffe et les Jeux Vidéos. Quelquefois j&amp;rsquo;écris des trucs.
- &amp;ldquo;Vous savez, moi je ne crois pas qu&amp;rsquo;il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd&amp;rsquo;hui avec vous, je dirais que c&amp;rsquo;est d&amp;rsquo;abord des rencontres. Des gens qui m&amp;rsquo;ont tendu la main, peut-être à un moment où je ne pouvais pas, où j&amp;rsquo;étais seul chez moi.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          On m&amp;rsquo;appelle Vali, j&amp;rsquo;ai 26 ans et j&amp;rsquo;aime les meme, la malbouffe et les Jeux Vidéos. Quelquefois j&amp;rsquo;écris des trucs.
+&amp;ldquo;Vous savez, moi je ne crois pas qu&amp;rsquo;il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd&amp;rsquo;hui avec vous, je dirais que c&amp;rsquo;est d&amp;rsquo;abord des rencontres. Des gens qui m&amp;rsquo;ont tendu la main, peut-être à un moment où je ne pouvais pas, où j&amp;rsquo;étais seul chez moi.
+          
+        
+        </description>
     </item>
     
   </channel>
