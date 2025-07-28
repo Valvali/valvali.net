@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://valvali.net/tags/gtarp/</loc>
+    <loc>http://localhost:1313/tags/gtarp/</loc>
     <lastmod>2021-08-09T18:46:43+02:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/tags/jeux-vid%C3%A9os/</loc>
+    <loc>http://localhost:1313/tags/jeux-vid%C3%A9os/</loc>
     <lastmod>2021-08-09T18:46:43+02:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2021-08-09T18:46:43+02:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/posts/secondsouffle/</loc>
+    <loc>http://localhost:1313/posts/secondsouffle/</loc>
     <lastmod>2021-08-09T18:46:43+02:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-08-09T18:46:43+02:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2021-08-09T18:46:43+02:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/tags/freeware/</loc>
+    <loc>http://localhost:1313/tags/freeware/</loc>
     <lastmod>2021-03-07T18:22:18+01:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/posts/freegames/</loc>
+    <loc>http://localhost:1313/posts/freegames/</loc>
     <lastmod>2021-03-07T18:22:18+01:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/tags/cyberpunk/</loc>
+    <loc>http://localhost:1313/tags/cyberpunk/</loc>
     <lastmod>2021-01-19T19:31:21+01:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/posts/cyberpunk/</loc>
+    <loc>http://localhost:1313/posts/cyberpunk/</loc>
     <lastmod>2021-01-19T19:31:21+01:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/tags/jeu-vid%C3%A9o/</loc>
+    <loc>http://localhost:1313/tags/jeu-vid%C3%A9o/</loc>
     <lastmod>2021-01-19T19:31:21+01:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2021-01-17T20:11:22+01:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/about/about/</loc>
+    <loc>http://localhost:1313/about/about/</loc>
     <lastmod>2021-01-17T20:11:22+01:00</lastmod>
   </url><url>
-    <loc>http://valvali.net/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
   </url><url>
-    <loc>http://valvali.net/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

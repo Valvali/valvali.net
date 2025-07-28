@@ -21,6 +21,8 @@ Dans ce titre, un monde est généré, avec son histoire, l’érosion de ses mo
 
 Vous pouvez télécharger le Starter Pack avec des mods utiles ici : [Starter Pack](http://www.bay12forums.com/smf/index.php?topic=126076.0)
 
+UPDATE : Le jeu est a présent disponible en version payante avec une interface retravaillée et des graphismes et une OST, je recommande fortement si la version gratuite vous plait : [Dwarf Fortress Premium](https://store.steampowered.com/app/975370/Dwarf_Fortress/)
+
 Et n’oubliez pas : Losing.Is.FUN !! (Uniquement en Anglais)
 ## Catalysm : Dark Days Ahead
 
@@ -37,7 +39,7 @@ Un launcher est disponible ici : [Launcher Cataclysm](https://github.com/remyroy
 
 Dans ce TPS Multijoueur, vous incarnez un Tenno, un ninja de l’espace chargé de protéger le système solaire. Le gameplay est rythmé, le système de builds et de crafting sont bien foutus et le cash shop n’est pas du tout nécessaire. Le farming intensif nécessaire pour progresser dans la quête principale est peut-être un peu trop long mais bon, c’est un jeu de farm après tout.
 
-Disponible gratuitement sur Steam, Switch, PS4 et Xbox. (Disponible en FR)
+Disponible gratuitement sur Steam, Switch, PS4, PS5 et Xbox. (Disponible en FR)
 
 ## Freeciv
 
@@ -65,7 +67,7 @@ Un jeu très fun qui demande un temps d’apprentissage avant de pouvoir vraimen
 
 Disponible en installant le client BYOND sur : http://www.byond.com/ (contactez moi si vous voulez essayer le jeu pour avoir des tutos, le jeu est en anglais a la base, mais des serveur Francais existent)
 
-A noter que des remakes du jeu (Space Station 14 et UnityStation) sont à présent sur Steam, mais ces derniers ne sont pas encore assez avancés pour que je vous les recommande.
+A noter que des remakes du jeu, [Space Station 14](https://store.steampowered.com/app/1255460/Space_Station_14/) et [UnityStation](https://store.steampowered.com/app/801140/Unitystation/) sont à présent sur Steam si vous souhaitez ne pas installer de client externe
 
 ## Counter Strike : Global Offensive
 
@@ -140,6 +142,7 @@ Dans ce RPG Français (cocorico !) vous incarnez le batteur, un mystérieux pers
 
 Disponible sur https://www.rpg-maker.fr/index.php?page=jeux&id=425
 
+UPDATE 2025 : Le jeu est a présent également sur Steam avec une OST refaite par Toby Fox, le créateur d'Undertale, si jamais vous souhaitez une version plus à jour et pouvez payer je vous recommande cette dernière [ici](https://store.steampowered.com/app/3339880/OFF/)
 ## Osu!
 
 ![osu](/img/osu.jpg)

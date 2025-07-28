@@ -1,81 +1,191 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Vali</title>
-    
-    
-    
-    <link>http://valvali.net/posts/</link>
-    <description>Recent content in Posts on Vali</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 09 Aug 2021 18:46:43 +0200</lastBuildDate>
-    
-	<atom:link href="http://valvali.net/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Second Souffle GTA RP : Mon expérience</title>
-      <link>http://valvali.net/posts/secondsouffle/</link>
-      <pubDate>Mon, 09 Aug 2021 18:46:43 +0200</pubDate>
-      
-      <guid>http://valvali.net/posts/secondsouffle/</guid>
-      <description>
+    <channel>
+        <title>Posts on Vali</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on Vali</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Mon, 09 Aug 2021 18:46:43 +0200</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
-          
-          
-          
+        <item>
+            <title>Second Souffle GTA RP : Mon expérience</title>
+            <link>http://localhost:1313/posts/secondsouffle/</link>
+            <pubDate>Mon, 09 Aug 2021 18:46:43 +0200</pubDate>
+            
+            <guid>http://localhost:1313/posts/secondsouffle/</guid>
+            <description>&lt;p&gt;&lt;strong&gt;DISCLAIMER :&lt;/strong&gt; Cet article à été écrit avant la sortie des &lt;a href=&#34;https://twitter.com/anon123004/status/1618678516207468545&#34;&gt;accusations&lt;/a&gt; vis à vis de 123lunatic et ne les cautionne pas ni ne le défend.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/secondsouffle.jpg&#34; alt=&#34;Logo Second Souffle&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Il y a quelques semaines, je me retrouvais sur un malentendu invité à participer a un GTA RP un peu spécial. Si vous me lisez-vous avez déjà probablement entendu parler de RPZ, le phénomène qui a enflammé la toile pendant 2 semaines avec de nombreux influenceurs participant et ayant engendré nombres discussions, fanart et autres. Eh bien une équipe de passionnés et de streamers un peu moins gros ainsi que d&amp;rsquo;autres non streamers ont voulu les émuler en lançant Second Souffle, une expérience GTA RP similaire au ZRP mais avec une grande différence. Votre serviteur pouvait y participer !&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p><strong>DISCLAIMER :</strong> Cet article à été écrit avant la sortie des <a href="https://twitter.com/anon123004/status/1618678516207468545">accusations</a> vis à vis de 123lunatic et ne les cautionne pas ni ne le défend.</p>
+<p><img src="/img/secondsouffle.jpg" alt="Logo Second Souffle"></p>
+<p>Il y a quelques semaines, je me retrouvais sur un malentendu invité à participer a un GTA RP un peu spécial. Si vous me lisez-vous avez déjà probablement entendu parler de RPZ, le phénomène qui a enflammé la toile pendant 2 semaines avec de nombreux influenceurs participant et ayant engendré nombres discussions, fanart et autres. Eh bien une équipe de passionnés et de streamers un peu moins gros ainsi que d&rsquo;autres non streamers ont voulu les émuler en lançant Second Souffle, une expérience GTA RP similaire au ZRP mais avec une grande différence. Votre serviteur pouvait y participer !</p>
+<p>Je me suis donc empressé à créer un personnage, ayant été invité un peu sur le tard et avec une faible expérience du GTA RP bien que familier avec le RP depuis longtemps sur d&rsquo;autres jeux, j&rsquo;ai décidé de créer un personnage qui serait à la fois assez passif pour apprendre le GTA RP tout en ayant une personnalité adaptée aux genres de tarés qu&rsquo;on y croiserait, c&rsquo;est ainsi que m&rsquo;est venu l&rsquo;idée de piquer un personnage parodique et de le faire mien. Ainsi naquit Jean-Marc Elys, une parodie du personnage joué par Bob Lennon dans <a href="https://youtu.be/LE5htTU8zpk">cette vidéo</a> de Benzaie. J&rsquo;ai changé le nom car je suis pas trop fan des Souls mais un énorme fan de Disco Elysium, ainsi commençait donc mon aventure&hellip;</p>
+<p><img src="/img/JM1.png" alt="JM1"></p>
+<h2 id="lhistoire-de-jean-marc">L&rsquo;histoire de Jean-Marc</h2>
+<p>Il y a énormément de bonnes choses à dire sur l&rsquo;expérience que j&rsquo;ai eue sur Second Souffle, les personnages étaient tous hauts en couleurs, la création de contenu liée au serveur était impressionnante, il y a eu de nombreuses chansons et fanart autour de tous les personnages et un enchainement de moments tous plus cool les uns que les autres, j&rsquo;ai moi-même essayé de streamer mon expérience avant d&rsquo;arrêter plus par flemme que pour un autre défaut.</p>
+<p>Quant à l&rsquo;histoire de Jean-Marc, je vais rapidement la résumer ici. Jean-Marc a débarqué à Los Santos comme beaucoup de gens, en enchainant les petits boulots sur les chantiers et au golf. C&rsquo;est d&rsquo;ailleurs là-bas qu&rsquo;il a rencontré son premier ami, Eric Ttaps, le patron du bar unicorn (ou il n’y a pas de poneys mais du patin a glace artistique sans les patins et sans les vêtements). On le verra ensuite traîner par ci-par là à des évènements qui réuniront la population de Los Santos, comme l&rsquo;enterrement de Pietro Martoni qu&rsquo;il a <a href="https://www.twitch.tv/valvali/clip/CrypticCloudyTermiteTwitchRPG-wFCFxngjDINpghqo">interrompu car il avait perdu sa voiture</a>, l&rsquo;anniversaire de la petite Roze ou l&rsquo;enterrement du mécano de la ville, Bernie.</p>
+<p>Après de nombreux jours a galérer et vivre de petits boulots dans sa voiture, il finira par être employé au vignoble de Mr. Dennis Raune, qu&rsquo;il connaissait de ses errements précédents dans la ville. Malgré cela, Jean-Marc se retrouvera bien vite confronté à une dépendance à l&rsquo;alcool qui sera liée au stress de la vie a Los Santos, faite de prises d&rsquo;otages, morts récurrentes et fêtes bien abreuvées ce qui cumulera a une <a href="https://clips.twitch.tv/VibrantAlluringLegDogFace-oUWlwH8qmH6aJCHc">bien mauvaise chute</a> après avoir sifflé une partie du vin qu&rsquo;il avait produit lui-même.</p>
+<p>Après de nombreux événements tragiques, Jean-Marc se décidera tout de même à rester en ville et à confronter ses démons ainsi que la dure vie de Los Santos à la suite d&rsquo;une consultation avec le Docteur Carl Peddyem, le psychologue et homme le plus gentil de Los Santos. Il cherchera désormais à protéger le quotidien tranquille qu&rsquo;il s&rsquo;est construit ainsi que les quelques personnes auxquelles il s&rsquo;est attaché. L&rsquo;histoire le quitte alors qu&rsquo;il contemple la mer, enfin serein par rapport à son futur.</p>
+<p><img src="/img/JM2.png" alt="JM2"></p>
+<p>C&rsquo;était très sympa hein ? Ben maintenant voyons ce qui m&rsquo;a posé problème avec ce personnage.</p>
+<h2 id="mes-problèmes">Mes problèmes</h2>
+<p>Malgré toute ces qualités j&rsquo;ai néanmoins eu quelques problèmes qui sont a la fois lié au serveur en lui-même et au personnage. Vous l&rsquo;aurez compris, Jean-Marc est un personnage assez passif, c&rsquo;est fait exprès pour découvrir le RP et pas me retrouver embarquer dans des dingueries. Le problème c&rsquo;est que j&rsquo;ai eu quelques difficultés a faire évoluer le personnage au-delà de son caractère de base et donc à part lui trouver un travail et les interactions qu&rsquo;il a eu lors des gros événements sur le serveur il a au final connu assez peu de persos au delà de quelque mots échangés. C&rsquo;est plus un aveu d&rsquo;échec de ma part qu&rsquo;une vraie critique par contre ça rejoint mon autre problème. (Je passe volontairement les bugs car ce sont des choses qui arrivent.)</p>
+<p><img src="/img/JM3.png" alt="JM3"></p>
+<p>Si vous avez regardé les VOD ou les streams des gens qui partageaient leur expérience vous aurez remarqué que ces dernières se finissent assez tard. En effet, les scènes RP se continuaient tard dans la nuit, parfois jusqu&rsquo;à 2 heures du matin voir au-delà. Et du a des raisons indépendantes de ma volonté il était impossible de rester sur le serveur passé 23h/minuit pour y parler, même en week-end. Ce qui m&rsquo;a valu de devoir interrompre ma participation à des scènes RP pourtant très intéressantes en plein milieu de ces dernières. Ça a un peu freiné ma participation au serveur quand je voyais le lendemain sur le discord des scènes pop qui avaient été jouées vers minuit/1h du matin. Mais bon, ça reste un problème qui après tout est venu de moi plutôt que du serveur et de son staff.</p>
+<h2 id="conclusion-et-le-turfu">Conclusion et le TURFU</h2>
+<p>Malgré les quelques griefs présentés ci-dessus j&rsquo;ai globalement bien apprécié mon expérience sur le serveur, c&rsquo;était un honneur pour moi de jouer avec des gens aussi talentueux que ce soit en RP ou dans tout autres domaines, je tiens donc à remercier le staff du serveur ainsi que tous les joueurs et joueuses ayant contribué à cette formidable expérience.</p>
+<p>Que faire maintenant ? Le staff va bientôt ouvrir un autre serveur qui sera ouvert à tous sur whitelist et ou les personnages de Second Souffle pourront être importés, je ne compte pas y participer, étant déjà suffisamment occupé par d&rsquo;autres projets et satisfait de la conclusion de l&rsquo;histoire de Jean-Marc.</p>
+<p>Mon expérience sur GTA RP m&rsquo;a amené à réfléchir sur le futur des jeux RP, ayant commencé sur Garry&rsquo;s Mod je suis très enthousiaste vis-à-vis de l&rsquo;esprit modding qui entoure FiveM et les plateformes autour de GTA V, mais je doute de la pérennité de ces dernières pour le futur. Take Two ayant déjà plusieurs fois prouvé leur hostilité vis-a-vis des mods sur leurs jeux. Je pense au contraire que le futur ne se déroule pas sur un mod, mais sur un jeu. S&amp;Box, la suite spirituelle de Garry&rsquo;s Mod en développement chez Facepunch est déjà très intéressante malgré son statut de beta en développement constant. On peut y voir des maps de taille infinie, un support VR, possibilité de faire des serveurs à plus de 1000 joueurs, de la facilité de création et d&rsquo;optimisation&hellip; Il est fort possible que la suite de RPZ et autres expérimentations du même type se fasse sur cette plateforme libre de droits et beaucoup plus ouverte à la création.</p>
+<p><img src="/img/sbox.jpg" alt="Sbox"></p>
+<p>Sur ces réflexions, j&rsquo;aimerais réitérer mes félicitations et vous remercier vous cher lecteur, de m&rsquo;avoir lu jusqu&rsquo;au bout. Merci à tous et la prochaine pour de nouvelles aventures !</p>
+]]></content>
+        </item>
         
+        <item>
+            <title>Les recommandations gratos de JV de Vali</title>
+            <link>http://localhost:1313/posts/freegames/</link>
+            <pubDate>Sun, 07 Mar 2021 18:22:18 +0100</pubDate>
+            
+            <guid>http://localhost:1313/posts/freegames/</guid>
+            <description>&lt;p&gt;Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j&amp;rsquo;ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.&lt;/p&gt;
+&lt;h2 id=&#34;dwarf-fortress&#34;&gt;Dwarf Fortress&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/df.png&#34; alt=&#34;Dwarf Fortress&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Difficile de faire une liste de jeux gratuits sans évoquer Dwarf Fortress, ce jeu de gestion a inspiré une douzaine de titres comme Minecraft, Rimworld ou autres.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j&rsquo;ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.</p>
+<h2 id="dwarf-fortress">Dwarf Fortress</h2>
+<p><img src="/img/df.png" alt="Dwarf Fortress"></p>
+<p>Difficile de faire une liste de jeux gratuits sans évoquer Dwarf Fortress, ce jeu de gestion a inspiré une douzaine de titres comme Minecraft, Rimworld ou autres.</p>
+<p>Dans ce titre, un monde est généré, avec son histoire, l’érosion de ses montagnes, ses Dieux, ses peuples. Une fois que le monde est généré, vous pouvez y créer une forteresse de nains qui creuseront toujours plus profond ou bien créer un personnage et explorer le monde en mode aventure.</p>
+<p>Vous pouvez télécharger le Starter Pack avec des mods utiles ici : <a href="http://www.bay12forums.com/smf/index.php?topic=126076.0">Starter Pack</a></p>
+<p>UPDATE : Le jeu est a présent disponible en version payante avec une interface retravaillée et des graphismes et une OST, je recommande fortement si la version gratuite vous plait : <a href="https://store.steampowered.com/app/975370/Dwarf_Fortress/">Dwarf Fortress Premium</a></p>
+<p>Et n’oubliez pas : Losing.Is.FUN !! (Uniquement en Anglais)</p>
+<h2 id="catalysm--dark-days-ahead">Catalysm : Dark Days Ahead</h2>
+<p><img src="/img/cdda.png" alt="Cataclysm"></p>
+<p>Un autre jeu dont les graphismes ne sont pas forcément les meilleurs, mais qui compense par sa richesse de gameplay. Dans ce rogue-like, l’apocalypse est arrivée, ou plutôt les apocalypses, car des zombies rodent, le blob dévore les survivants et la radioactivité ambiante empoisonne lentement le reste.</p>
+<p>Il ne tient qu&rsquo;à vous de construire une base, chasser pour de la nourriture et devenir un véritable survivant.</p>
+<p>Un launcher est disponible ici : <a href="https://github.com/remyroy/CDDA-Game-Launcher/releases">Launcher Cataclysm</a> (Uniquement en Anglais)</p>
+<h2 id="warframe">Warframe</h2>
+<p><img src="/img/warframe.jpg" alt="Warframe"></p>
+<p>Dans ce TPS Multijoueur, vous incarnez un Tenno, un ninja de l’espace chargé de protéger le système solaire. Le gameplay est rythmé, le système de builds et de crafting sont bien foutus et le cash shop n’est pas du tout nécessaire. Le farming intensif nécessaire pour progresser dans la quête principale est peut-être un peu trop long mais bon, c’est un jeu de farm après tout.</p>
+<p>Disponible gratuitement sur Steam, Switch, PS4, PS5 et Xbox. (Disponible en FR)</p>
+<h2 id="freeciv">Freeciv</h2>
+<p><img src="/img/freeciv.jpeg" alt="Freeciv"></p>
+<p>Une récréation open source de Civilization 2, l’un des 4X les plus populaires, incarnez la nation que vous souhaitez et dominez le monde par l’armée, la science ou l’économie.</p>
+<p>Disponible sur <a href="http://www.freeciv.org/">http://www.freeciv.org/</a> (Disponible en FR)</p>
+<h2 id="pioneer">Pioneer</h2>
+<p><img src="/img/pioneer.jpg" alt="Pioneer"></p>
+<p>Vous n’avez pas le budget pour Star Citizen ou Elite Dangerous ? Essayez Pioneer, cette recréation open source de Frontier Elite 2 est un sandbox spatial total ou vous pourrez devenir commerçant, chasseur de primes, transport de touristes ou même explorateur dans une recréation de la galaxie avec des transitions espace vers terre sans temps de chargement.</p>
+<p>Disponible sur <a href="https://pioneerspacesim.net/">https://pioneerspacesim.net/</a> (Uniquement en Anglais)</p>
+<h2 id="space-station-13">Space Station 13</h2>
+<p><img src="/img/ss13.png" alt="SS13"></p>
+<p>Souvent présenté comme un “Dwarf Fortress” spatial de part sa complexité, Space Station 13 est un jeu multijoueur où chaque joueur tient un rôle bien précis avec son gameplay propre, vous pouvez être un officier de sécurité arrêtant les troubles fêtes, un barman faisant ses propres cocktails ou bien un ingénieur en robotique créant des mechas. Le but étant que la station tourne bien, mais des antagonistes tels que des traîtres, des aliens, le blob et les sorciers de l’espace tenterons de mettre à mal la station.</p>
+<p>Un jeu très fun qui demande un temps d’apprentissage avant de pouvoir vraiment s’amuser longtemps.</p>
+<p>Disponible en installant le client BYOND sur : <a href="http://www.byond.com/">http://www.byond.com/</a> (contactez moi si vous voulez essayer le jeu pour avoir des tutos, le jeu est en anglais a la base, mais des serveur Francais existent)</p>
+<p>A noter que des remakes du jeu, <a href="https://store.steampowered.com/app/1255460/Space_Station_14/">Space Station 14</a> et <a href="https://store.steampowered.com/app/801140/Unitystation/">UnityStation</a> sont à présent sur Steam si vous souhaitez ne pas installer de client externe</p>
+<h2 id="counter-strike--global-offensive">Counter Strike : Global Offensive</h2>
+<p><img src="/img/csgo.jpg" alt="CSGO"></p>
+<p>Inutile de présenter Counter-Strike, le FPS compétitif par excellence, il tourne sur toutes les configs et vous garantira des soirées remplies de sel ou de surf.</p>
+<p>Disponible gratuitement sur Steam. (Disponible en FR)</p>
+<h2 id="crusader-kings-2">Crusader Kings 2</h2>
+<p><img src="/img/ck2.jpg" alt="CK2"></p>
+<p>Crusader Kings 2 est un jeu de grande stratégie ou vous incarnez non pas un royaume, mais un monarque dans le temps des croisades, a vous de faire des complots pour étendre votre pays, faire des guerre, ou tout simplement tenter de séduire la femme de vos rivaux politiques. Un des jeux les plus complets qui soit et il est maintenant gratuit, c’est beau.</p>
+<p>Disponible gratuitement sur Steam. (Disponible en FR)</p>
+<h2 id="path-of-exile">Path of Exile</h2>
+<p><img src="/img/poe.jpg" alt="Poe"></p>
+<p>Path of Exile est un Hack and Slash gratuit reprenant le gameplay du mastodonte Diablo 2, exilé dans le continent de Wraeclast, vous devrez trancher, annihiler, détruire, exploser tous les ennemis qui se trouvent sur votre chemin afin d’obtenir du loot et de l’XP pour tuer encore plus vite.</p>
+<p>Disponible gratuitement sur Steam. (Disponible en FR)</p>
+<h2 id="dota-2">Dota 2</h2>
+<p><img src="/img/dota2.jpg" alt="dota"></p>
+<p>Dota 2 est la suite du premier MOBA de l’histoire, choisissez parmi une ribambelle de héros avant d’aller vous battre pour détruire le nexus adverse pour au final vous faire ridiculiser par un Russe avec 300 de ping qui spam Remove Kebab en chat vocal.</p>
+<p>Disponible gratuitement sur Steam. (Disponible en FR)</p>
+<h2 id="team-fortress-2">Team Fortress 2</h2>
+<p><img src="/img/tf2.jpeg" alt="TF2"></p>
+<p>Team Fortress 2 est un FPS arcade où vous pourrez choisir entre 9 classes avec chacune leur spécialité pour vous mettre sur la gueule, entre le Spy qui se déguise et sabote l’équipe adverse par derrière, le Heavy et sa grosse Gatling ou encore le Medic qui heal tout ce beau monde, toujours joué après des années et totalement gratuit, que dire de plus ?</p>
+<p>Disponible gratuitement sur Steam. (Disponible en FR)</p>
+<h2 id="xonotic">Xonotic</h2>
+<p><img src="/img/xonotic.jpg" alt="xonotic"></p>
+<p>Un fast FPS inspiré par Quake et Unreal Tournament ou celui qui se déplacera le plus vite en visant le mieux sera le meilleur, très fun et rapide contrairement aux autres FPS multis de cette liste.</p>
+<p>Disponible sur <a href="https://xonotic.org/">https://xonotic.org/</a> (Disponible en FR)</p>
+<h2 id="zdoom">ZDoom</h2>
+<p><img src="/img/doom.jpg" alt="doom"></p>
+<p>Zdoom est un port open source du moteur de DOOM 1 et 2, des FPS qu&rsquo;on ne présente plus. Ce dernier est compatible avec de nombreux mods comme Brutal DOOM et des campagnes comme Freedoom</p>
+<p>Le tout est disponible ici : <a href="https://zdoom.org/downloads">Zdoom</a>, <a href="https://freedoom.github.io/download.html">Freedoom</a>, <a href="https://www.moddb.com/mods/brutal-doom">Brutal Doom</a></p>
+<h2 id="cave-story">Cave Story</h2>
+<p><img src="/img/cavestory.png" alt="Cave Story"></p>
+<p>Un jeu de plate-forme metroidvania ou vous devrez sauver une île volante en sautant un peu partout, le jeu a notamment inspiré un petit jeu indé appelé Undertale. (Disponible en FR)</p>
+<p>Disponible en FR sur <a href="http://cavestory.maxlefou.com/">http://cavestory.maxlefou.com/</a></p>
+<h2 id="off">OFF</h2>
+<p><img src="/img/off.png" alt="OFF"></p>
+<p>Dans ce RPG Français (cocorico !) vous incarnez le batteur, un mystérieux personnage qui doit purifier le monde des fantômes, dans une ambiance particulière, vous devrez résoudre des énigmes, et gagner des combats dans un système inspiré de FF7. (Jeu Francais a la base donc oui disponible en FR)</p>
+<p>Disponible sur <a href="https://www.rpg-maker.fr/index.php?page=jeux&amp;id=425">https://www.rpg-maker.fr/index.php?page=jeux&id=425</a></p>
+<p>UPDATE 2025 : Le jeu est a présent également sur Steam avec une OST refaite par Toby Fox, le créateur d&rsquo;Undertale, si jamais vous souhaitez une version plus à jour et pouvez payer je vous recommande cette dernière <a href="https://store.steampowered.com/app/3339880/OFF/">ici</a></p>
+<h2 id="osu">Osu!</h2>
+<p><img src="/img/osu.jpg" alt="osu"></p>
+<p>Osu! est un jeu de rhythme gratuit inspiré de la série des Elite Beat Agents sur DS, armé de votre souris vous devrez cliquez au bons endroits sur le rhythme d&rsquo;une musique au choix afin d&rsquo;obtenir le meilleur score et crâner sur les internets.</p>
+<p>Disponible sur <a href="https://osu.ppy.sh/home">https://osu.ppy.sh/home</a></p>
+<h2 id="supertuxkart">SuperTuxKart</h2>
+<p><img src="/img/supertuxkart.jpg" alt="supertuxkart"></p>
+<p>Dans ce clone open source de Mario Kart, vous pourrez incarner une petite variété de personnages issu du monde du libre et même jouer en ligne.</p>
+<p>Disponible sur <a href="https://supertuxkart.net/Main_Page">https://supertuxkart.net/Main_Page</a></p>
+<h2 id="0-ad">0 A.D.</h2>
+<p><img src="/img/0ad.jpg" alt="0 A.D"></p>
+<p>0 A.D. est un clone de Age of Empires qui a évolué pour devenir un véritable jeu open source avec plus de 13 civilisations jouables chacunes avec leur style de jeu différent. Un excellent jeu pour les fans de stratégie en temps réel</p>
+<p>Disponible sur <a href="https://play0ad.com/">https://play0ad.com/</a></p>
+<h2 id="the-dark-mod">The Dark Mod</h2>
+<p><img src="/img/thedarkmod.png" alt="The Dark Mod"></p>
+<p>Débutée vers la fin des années 90, la série de jeux Thief vous mettait dans la peau d&rsquo;un voleur dans des jeux d&rsquo;infiltration immersifs. The Dark Mod se veut la continuation de cette série, un jeu gratuit ou la communauté à créé des centaines de missions ou vous pourrez larciner tout ce qui se trouve tout en évitant de vous faire voir.</p>
+<p>Disponible sur <a href="https://www.thedarkmod.com/main/">https://www.thedarkmod.com/main/</a></p>
+<h2 id="veloren">Veloren</h2>
+<p><img src="/img/veloren.png" alt="Veloren"></p>
+<p>Vous vous vous souvenez de Cube World ? Le RPG en voxel avec une alpha prometteuse qui avait disparu pendant des années avant de réapparaître claqué au sol ? Veloren c&rsquo;est la même chose mais en plus ambitieux et totalement gratuit et open source. Le jeu a beau être en alpha il est deja très sympathique et a un développement très actif.</p>
+<p>Disponible sur <a href="https://veloren.net/">https://veloren.net/</a> (Traduction FR disponible)</p>
+<h2 id="the-genesis-project">The Genesis Project</h2>
+<p><img src="/img/genesisproject.png" alt="The Genesis Project"></p>
+<p>Si vous êtes sur Internet depuis un certain temps, vous devez avoir entendu parler du webcomic Homestuck, ou des enfants jouent a un jeu qui provoque la fin du monde.
+The Genesis Project est une recréation de ce jeu qui s’appelle SBURB, un hybride de RPG, jeu de construction et de survie jouable en multijoueur. Le jeu étant en développement actif il manque encore pas mal de contenu, mais en tant qu’adaptation d’Homestuck, c’est un sans faute. Le seul problème étant que le jeu n&rsquo;est évidemment pas encore terminé et a encore du chemin à faire avant de terminer son développement</p>
+<p>Disponible sur <a href="https://www.sburb.me/">https://www.sburb.me/</a> (Disponible en Anglais uniquement)</p>
+<h2 id="epic-games-store">Epic Games Store</h2>
+<p><img src="/img/egs.png" alt="EGS"></p>
+<p>Je sais, Epic Games c’est Fortnite le cancer la mort de Steam tout ca, MAIS c’est surtout des jeux gratuits toutes les semaines, donc ravalez votre fierté et allez choper ce qu’ils ont de gratos, ca peut être des petits indés comme The end is nigh comme des gros jeux genre Watch Dogs ou Kingdom Come.</p>
+<p>Disponible sur <a href="https://www.epicgames.com/store/fr/">https://www.epicgames.com/store/fr/</a></p>
+]]></content>
+        </item>
         
+        <item>
+            <title>Cyberpunk 2077 vu par un boloss</title>
+            <link>http://localhost:1313/posts/cyberpunk/</link>
+            <pubDate>Tue, 19 Jan 2021 19:31:21 +0100</pubDate>
+            
+            <guid>http://localhost:1313/posts/cyberpunk/</guid>
+            <description>&lt;h3 id=&#34;cest-pas-un-test-il-ny-aura-pas-de-note-à-la-fin-calmez-vous&#34;&gt;(C’est pas un test il n’y aura pas de note à la fin calmez vous)&lt;/h3&gt;
+&lt;p&gt;Le moment qui m’a le plus marqué dans Cyberpunk 2077 était les funérailles de mon meilleur ami. Alors que chaque personnage était en train de faire face à son deuil, ils ont arrêté d&amp;rsquo;être des amas de pixels pour devenir de vraies personnes le temps d’un moment triste et joyeux à la fois, un moment de recueil et de souvenir. Puis je suis sorti de ces dernières et j’ai vu une voiture tomber du ciel et je me suis rappelé que ah oui, c’était un jeu vidéo légèrement claqué au sol.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h3 id="cest-pas-un-test-il-ny-aura-pas-de-note-à-la-fin-calmez-vous">(C’est pas un test il n’y aura pas de note à la fin calmez vous)</h3>
+<p>Le moment qui m’a le plus marqué dans Cyberpunk 2077 était les funérailles de mon meilleur ami. Alors que chaque personnage était en train de faire face à son deuil, ils ont arrêté d&rsquo;être des amas de pixels pour devenir de vraies personnes le temps d’un moment triste et joyeux à la fois, un moment de recueil et de souvenir. Puis je suis sorti de ces dernières et j’ai vu une voiture tomber du ciel et je me suis rappelé que ah oui, c’était un jeu vidéo légèrement claqué au sol.</p>
+<h2 id="cyber-bugs">Cyber-Bugs</h2>
+<p>Cyberpunk 2077 est un jeu sorti le 10 décembre 2020 développé par CD Projekt Red, les développeurs de The Witcher 3. Ayant joué à ce dernier à sa sortie je me rappelle de quelques bugs, notamment dans les phases de discussion, mais rien qui n’était au niveau de ce jeu. Alors oui on va commencer directement par les choses qui fachent, ce jeu n’est pas fini, il a été sorti sans sa phase de polish par une équipe de développeurs extenuée dirigée par un management incompétent. Outre les nombreux bugs des versions PC, l’état absolument lamentable des versions PS4 et Xbox One n’est tout simplement pas tolérable.</p>
+<p><img src="/img/cyberpunk1.png" alt="Coucou."></p>
+<p>Lors de mes 37h30 de jeu j’ai pu découvrir que les voitures rentraient dans le sol, les PNJ se mettent tous à genoux dans la même animation quand je fais un double saut, certains vendeurs se prennent pour Kitty Pryde et passent à travers les murs, l’IA des policiers est risible comparée à GTA et mon personnage en vue à la troisième personne est chauve dès que je met un couvre-chef, ce qui a ruiné un des moments censé être dramatique de la mission finale du jeu.</p>
+<p><img src="/img/Cyberpunk2.png" alt="Tout est normal."></p>
+<p>Mais les bugs disparaîtront bien un jour, au fur et à mesure de patchs et de hotfix, beaucoup espèrent que Cyberpunk fasse une No Man’s Sky et se retaille une réputation de bon jeu après des années de patchs, ce qui sera surement le cas, le souci principal du jeu n’est pas les bugs, il est à la racine même de ce dernier.</p>
+<h2 id="cyber-immersion">Cyber-Immersion</h2>
+<p>Cyberpunk 2077 à été vendu comme un jeu immersif, et du côté des graphismes, on ne va pas rechigner, c’est beau. La Direction Artistique et la technique présentent Night City comme un des plus beau monde fait ces derniers temps dans un Jeu Vidéo.</p>
+<p><img src="/img/Cyberpunk3.png" alt="Il faut l’avouer, ça claque."></p>
+<p>Le souci c’est que contrairement à ce que beaucoup pensent, il ne faut pas que des graphismes pour faire un jeu vidéo, il faut aussi que le reste tienne la route. CD Projekt a vendu ce jeu comme une immersion totale dans Night City  en tant que V. Un personnage que l’on peut modeler comme on le veut depuis la couleur de ses cheveux jusqu&rsquo;à ce qu&rsquo;il ou elle possède entre les jambes. Le jeu final est… Witcher 3 avec des flingues. On va être clairs, peu importe quel choix de Lifepath vous faites pour votre V, cela ne changera strictement RIEN à la quête principale et ne rajoute que du fluff lors de certains dialogues.</p>
+<p><img src="/img/Cyberpunk4.png" alt="Il est joli hein ? Ben vous le verrez que dans les miroirs et en conduisant des bagnoles à la 3ème personne."></p>
+<p>Car V n’est pas un personnage vide dans lequel le joueur peut se glisser, il est, comme Geralt avant lui, une personne qui a des buts et ambitions propres et qui ne laissera pas le joueur le guider comme il le veut. Donc exit vos grands rêves de rejoindre telle ou telle faction et grimper les rangs, vous serez toujours un mercenaire et pourrez au mieux choisir de trahir votre employeur pour gagner plus de cyber-pognon. En parlant de cyber-pognon, je ne lui ai pas trouvé beaucoup d’utilité au-delà des implants, acheter des armes ? Ça ne sert à rien on en trouve 300 après chaque combat. Acheter des objets de heal ? On peut les crafter. Acheter un nouvel appartement ? On peut pas. Acheter une nouvelle tête ou coupe de cheveux ? On peut pas non plus, encore et toujours cette impression d’inachevé dans une ville essayant de se pousser au plus près du réel.</p>
+<h2 id="cyber-dissonance-spoilers">Cyber-Dissonance (Spoilers)</h2>
+<p>Car le plus gros problème de Cyberpunk c’est le simple fait qu’il soit un open world alors que son histoire n’y est pas du tout adaptée. La quête principale de Cyberpunk se rappelle au joueur même lorsque ce dernier ne veut pas s’y intéresser, car V est mourant. Il est dans une course contre la montre afin de trouver un moyen de retirer la puce contenant une copie digitale de Johnny Silverhand qui est en train de le tuer. Et donc même si vous allez faire n’importe quoi d’autre vous aurez de temps à autres des crises de douleurs provoquées par le fait que votre personnage a une cyber-tumeur dans la tête, et ceci pendant TOUT LE JEU.</p>
+<p>Donc d’un côté la quête principale nous dit de sauver V avant qu’il meurt et de l’autre la map fourmille de points d&rsquo;intérêt digne de n’importe quel open world Ubisoft, et ce sont souvent des contrats qui vous demanderont de passer dans un repaire remplis d’hostiles, leur piquer quelque chose ou les tuer et passer à autre chose. Certes, il y a également des quêtes secondaires bien écrites mais ces dernières sont en sous-nombre comparés aux contrats.</p>
+<p><img src="/img/Cyberpunk5.png" alt="Sérieusement vous pouvez différencier les quêtes secondaires intéressantes et les contrats copié-collé sur cette map ?"></p>
+<p>Et l’histoire de ce Cyberpunk est franchement intéressante, bien écrite avec des personnages attachants avec chacuns leur personnalité et motivations propres. Le jeu brille le plus dans ces moments ou il oublie d’être un open world et vous laisse juste découvrir son histoire. Et là se trouve la dissonance de Cyberpunk, il essaie de lier une histoire intimiste avec beaucoup de moments sur des rails avec un open world fourmillant de choses aléatoires à faire. C’est une belle dissonance ludo-narrative des familles qui aurait pu être réglée simplement en en faisant un open world limité a zones à la Deus Ex ou Stalker, ca aurait permis de concilier les quêtes secondaires intéressantes et l’histoire sans rajouter tout le contenu nécessaire à un open world.</p>
+<p><img src="/img/Cyberpunk6.png" alt="T’es bien écrit et tout mais t’es pas dans le bon type de jeu mon pote."></p>
+<h2 id="cyber-conclusion">Cyber-Conclusion</h2>
+<p>Au final, est-ce que je recommanderais Cyberpunk 2077 ? Dans son état actuel, non, il est buggé du cul, et même exempt de bugs il a des problèmes fondamentaux qui rognent son ambition. Et surtout, la concurrence au niveau des RPG n’est plus la même qu’auparavant. Vous voulez un RPG immersif et joli ? Kingdom Come est aussi joli et a des PNJ qui ne sont pas en carton pâte. Vous voulez un RPG bien écrit ? Disco Elysium est un jeu excellemment bien écrit et qui n’a pas peur de parler de politique. Vous voulez un jeu Cyberpunk ? Les derniers Deus Ex sont mieux maîtrisés niveau gameplay et narration.</p>
+<p>Au final ce Cyberpunk sera juste un jeu correct qui aurait pu être tellement plus, et c’est dommage.</p>
+]]></content>
+        </item>
         
-          DISCLAIMER : Cet article à été écrit avant la sortie des accusations vis à vis de 123lunatic et ne les cautionne pas ni ne le défend.
-Il y a quelques semaines, je me retrouvais sur un malentendu invité à participer a un GTA RP un peu spécial. Si vous me lisez-vous avez déjà probablement entendu parler de RPZ, le phénomène qui a enflammé la toile pendant 2 semaines avec de nombreux influenceurs participant et ayant engendré nombres discussions, fanart et autres.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Les recommandations gratos de JV de Vali</title>
-      <link>http://valvali.net/posts/freegames/</link>
-      <pubDate>Sun, 07 Mar 2021 18:22:18 +0100</pubDate>
-      
-      <guid>http://valvali.net/posts/freegames/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j&amp;rsquo;ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.
-Dwarf Fortress # Difficile de faire une liste de jeux gratuits sans évoquer Dwarf Fortress, ce jeu de gestion a inspiré une douzaine de titres comme Minecraft, Rimworld ou autres.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Cyberpunk 2077 vu par un boloss</title>
-      <link>http://valvali.net/posts/cyberpunk/</link>
-      <pubDate>Tue, 19 Jan 2021 19:31:21 +0100</pubDate>
-      
-      <guid>http://valvali.net/posts/cyberpunk/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          (C’est pas un test il n’y aura pas de note à la fin calmez vous) # Le moment qui m’a le plus marqué dans Cyberpunk 2077 était les funérailles de mon meilleur ami. Alors que chaque personnage était en train de faire face à son deuil, ils ont arrêté d&amp;rsquo;être des amas de pixels pour devenir de vraies personnes le temps d’un moment triste et joyeux à la fois, un moment de recueil et de souvenir.
-          
-        
-        </description>
-    </item>
-    
-  </channel>
+    </channel>
 </rss>

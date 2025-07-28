@@ -2,101 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vali</title>
-    
-    
-    
-    <link>http://valvali.net/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Vali</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 09 Aug 2021 18:46:43 +0200</lastBuildDate>
-    
-	<atom:link href="http://valvali.net/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Souffle GTA RP : Mon expérience</title>
-      <link>http://valvali.net/posts/secondsouffle/</link>
+      <link>http://localhost:1313/posts/secondsouffle/</link>
       <pubDate>Mon, 09 Aug 2021 18:46:43 +0200</pubDate>
-      
-      <guid>http://valvali.net/posts/secondsouffle/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          DISCLAIMER : Cet article à été écrit avant la sortie des accusations vis à vis de 123lunatic et ne les cautionne pas ni ne le défend.
-Il y a quelques semaines, je me retrouvais sur un malentendu invité à participer a un GTA RP un peu spécial. Si vous me lisez-vous avez déjà probablement entendu parler de RPZ, le phénomène qui a enflammé la toile pendant 2 semaines avec de nombreux influenceurs participant et ayant engendré nombres discussions, fanart et autres.
-          
-        
-        </description>
+      <guid>http://localhost:1313/posts/secondsouffle/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;DISCLAIMER :&lt;/strong&gt; Cet article à été écrit avant la sortie des &lt;a href=&#34;https://twitter.com/anon123004/status/1618678516207468545&#34;&gt;accusations&lt;/a&gt; vis à vis de 123lunatic et ne les cautionne pas ni ne le défend.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/secondsouffle.jpg&#34; alt=&#34;Logo Second Souffle&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Il y a quelques semaines, je me retrouvais sur un malentendu invité à participer a un GTA RP un peu spécial. Si vous me lisez-vous avez déjà probablement entendu parler de RPZ, le phénomène qui a enflammé la toile pendant 2 semaines avec de nombreux influenceurs participant et ayant engendré nombres discussions, fanart et autres. Eh bien une équipe de passionnés et de streamers un peu moins gros ainsi que d&amp;rsquo;autres non streamers ont voulu les émuler en lançant Second Souffle, une expérience GTA RP similaire au ZRP mais avec une grande différence. Votre serviteur pouvait y participer !&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Les recommandations gratos de JV de Vali</title>
-      <link>http://valvali.net/posts/freegames/</link>
+      <link>http://localhost:1313/posts/freegames/</link>
       <pubDate>Sun, 07 Mar 2021 18:22:18 +0100</pubDate>
-      
-      <guid>http://valvali.net/posts/freegames/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j&amp;rsquo;ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.
-Dwarf Fortress # Difficile de faire une liste de jeux gratuits sans évoquer Dwarf Fortress, ce jeu de gestion a inspiré une douzaine de titres comme Minecraft, Rimworld ou autres.
-          
-        
-        </description>
+      <guid>http://localhost:1313/posts/freegames/</guid>
+      <description>&lt;p&gt;Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j&amp;rsquo;ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dwarf-fortress&#34;&gt;Dwarf Fortress&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/df.png&#34; alt=&#34;Dwarf Fortress&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Difficile de faire une liste de jeux gratuits sans évoquer Dwarf Fortress, ce jeu de gestion a inspiré une douzaine de titres comme Minecraft, Rimworld ou autres.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cyberpunk 2077 vu par un boloss</title>
-      <link>http://valvali.net/posts/cyberpunk/</link>
+      <link>http://localhost:1313/posts/cyberpunk/</link>
       <pubDate>Tue, 19 Jan 2021 19:31:21 +0100</pubDate>
-      
-      <guid>http://valvali.net/posts/cyberpunk/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          (C’est pas un test il n’y aura pas de note à la fin calmez vous) # Le moment qui m’a le plus marqué dans Cyberpunk 2077 était les funérailles de mon meilleur ami. Alors que chaque personnage était en train de faire face à son deuil, ils ont arrêté d&amp;rsquo;être des amas de pixels pour devenir de vraies personnes le temps d’un moment triste et joyeux à la fois, un moment de recueil et de souvenir.
-          
-        
-        </description>
+      <guid>http://localhost:1313/posts/cyberpunk/</guid>
+      <description>&lt;h3 id=&#34;cest-pas-un-test-il-ny-aura-pas-de-note-à-la-fin-calmez-vous&#34;&gt;(C’est pas un test il n’y aura pas de note à la fin calmez vous)&lt;/h3&gt;&#xA;&lt;p&gt;Le moment qui m’a le plus marqué dans Cyberpunk 2077 était les funérailles de mon meilleur ami. Alors que chaque personnage était en train de faire face à son deuil, ils ont arrêté d&amp;rsquo;être des amas de pixels pour devenir de vraies personnes le temps d’un moment triste et joyeux à la fois, un moment de recueil et de souvenir. Puis je suis sorti de ces dernières et j’ai vu une voiture tomber du ciel et je me suis rappelé que ah oui, c’était un jeu vidéo légèrement claqué au sol.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Vali</title>
-      <link>http://valvali.net/about/about/</link>
+      <link>http://localhost:1313/about/about/</link>
       <pubDate>Sun, 17 Jan 2021 20:11:22 +0100</pubDate>
-      
-      <guid>http://valvali.net/about/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          On m&amp;rsquo;appelle Vali, j&amp;rsquo;ai 26 ans et j&amp;rsquo;aime les meme, la malbouffe et les Jeux Vidéos. Quelquefois j&amp;rsquo;écris des trucs.
-&amp;ldquo;Vous savez, moi je ne crois pas qu&amp;rsquo;il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd&amp;rsquo;hui avec vous, je dirais que c&amp;rsquo;est d&amp;rsquo;abord des rencontres. Des gens qui m&amp;rsquo;ont tendu la main, peut-être à un moment où je ne pouvais pas, où j&amp;rsquo;étais seul chez moi.
-          
-        
-        </description>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;p&gt;On m&amp;rsquo;appelle Vali, j&amp;rsquo;ai 29 ans et j&amp;rsquo;aime les meme, la malbouffe et les Jeux Vidéos. Quelquefois j&amp;rsquo;écris des trucs.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;&lt;em&gt;Vous savez, moi je ne crois pas qu&amp;rsquo;il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd&amp;rsquo;hui avec vous, je dirais que c&amp;rsquo;est d&amp;rsquo;abord des rencontres. Des gens qui m&amp;rsquo;ont tendu la main, peut-être à un moment où je ne pouvais pas, où j&amp;rsquo;étais seul chez moi. Et c&amp;rsquo;est assez curieux de se dire que les hasards, les rencontres forgent une destinée&amp;hellip; Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas l&amp;rsquo;interlocuteur en face je dirais, le miroir qui vous aide à avancer. Alors ça n&amp;rsquo;est pas mon cas, comme je disais là, puisque moi au contraire, j&amp;rsquo;ai pu : et je dis merci à la vie, je lui dis merci, je chante la vie, je danse la vie&amp;hellip; je ne suis qu&amp;rsquo;amour ! Et finalement, quand beaucoup de gens aujourd&amp;rsquo;hui me disent « Mais comment fais-tu pour avoir cette humanité ? », et bien je leur réponds très simplement, je leur dis que c&amp;rsquo;est ce goût de l&amp;rsquo;amour ce goût donc qui m&amp;rsquo;a poussé aujourd&amp;rsquo;hui à entreprendre une construction mécanique, mais demain qui sait ? Peut-être simplement à me mettre au service de la communauté, à faire le don, le don de soi&amp;hellip;&lt;/em&gt;&amp;rdquo;  &lt;br&gt;&#xA;-Otis, le scribe&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

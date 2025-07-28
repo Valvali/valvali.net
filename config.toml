@@ -2,7 +2,7 @@ baseURL = "https://valvali.net/"
 languageCode = "fr-fr"
 title = "Vali"
 theme = "hello-friend-ng"
-paginate     = 10
+pagerSize     = 10
 
 [params]
   AuthorName = 'Vali'

@@ -1,61 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jeux vidéos on Vali</title>
-    
-    
-    
-    <link>http://valvali.net/tags/jeux-vid%C3%A9os/</link>
-    <description>Recent content in jeux vidéos on Vali</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
+    <title>Jeux Vidéos on Vali</title>
+    <link>http://localhost:1313/tags/jeux-vid%C3%A9os/</link>
+    <description>Recent content in Jeux Vidéos on Vali</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 09 Aug 2021 18:46:43 +0200</lastBuildDate>
-    
-	<atom:link href="http://valvali.net/tags/jeux-vid%C3%A9os/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/jeux-vid%C3%A9os/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Souffle GTA RP : Mon expérience</title>
-      <link>http://valvali.net/posts/secondsouffle/</link>
+      <link>http://localhost:1313/posts/secondsouffle/</link>
       <pubDate>Mon, 09 Aug 2021 18:46:43 +0200</pubDate>
-      
-      <guid>http://valvali.net/posts/secondsouffle/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          DISCLAIMER : Cet article à été écrit avant la sortie des accusations vis à vis de 123lunatic et ne les cautionne pas ni ne le défend.
-Il y a quelques semaines, je me retrouvais sur un malentendu invité à participer a un GTA RP un peu spécial. Si vous me lisez-vous avez déjà probablement entendu parler de RPZ, le phénomène qui a enflammé la toile pendant 2 semaines avec de nombreux influenceurs participant et ayant engendré nombres discussions, fanart et autres.
-          
-        
-        </description>
+      <guid>http://localhost:1313/posts/secondsouffle/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;DISCLAIMER :&lt;/strong&gt; Cet article à été écrit avant la sortie des &lt;a href=&#34;https://twitter.com/anon123004/status/1618678516207468545&#34;&gt;accusations&lt;/a&gt; vis à vis de 123lunatic et ne les cautionne pas ni ne le défend.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/secondsouffle.jpg&#34; alt=&#34;Logo Second Souffle&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Il y a quelques semaines, je me retrouvais sur un malentendu invité à participer a un GTA RP un peu spécial. Si vous me lisez-vous avez déjà probablement entendu parler de RPZ, le phénomène qui a enflammé la toile pendant 2 semaines avec de nombreux influenceurs participant et ayant engendré nombres discussions, fanart et autres. Eh bien une équipe de passionnés et de streamers un peu moins gros ainsi que d&amp;rsquo;autres non streamers ont voulu les émuler en lançant Second Souffle, une expérience GTA RP similaire au ZRP mais avec une grande différence. Votre serviteur pouvait y participer !&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Les recommandations gratos de JV de Vali</title>
-      <link>http://valvali.net/posts/freegames/</link>
+      <link>http://localhost:1313/posts/freegames/</link>
       <pubDate>Sun, 07 Mar 2021 18:22:18 +0100</pubDate>
-      
-      <guid>http://valvali.net/posts/freegames/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j&amp;rsquo;ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.
-Dwarf Fortress # Difficile de faire une liste de jeux gratuits sans évoquer Dwarf Fortress, ce jeu de gestion a inspiré une douzaine de titres comme Minecraft, Rimworld ou autres.
-          
-        
-        </description>
+      <guid>http://localhost:1313/posts/freegames/</guid>
+      <description>&lt;p&gt;Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j&amp;rsquo;ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.&lt;/p&gt;&#xA;&lt;h2 id=&#34;dwarf-fortress&#34;&gt;Dwarf Fortress&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/df.png&#34; alt=&#34;Dwarf Fortress&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Difficile de faire une liste de jeux gratuits sans évoquer Dwarf Fortress, ce jeu de gestion a inspiré une douzaine de titres comme Minecraft, Rimworld ou autres.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
