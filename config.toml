@@ -37,6 +37,10 @@ pagerSize     = 10
     name = "twitch"
     url  = "https://twitch.tv/valvali"
 
+  [[params.social]]
+    name = "bluesky"
+    url  = "https://bsky.app/profile/valvali.net"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
