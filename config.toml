@@ -1,15 +1,13 @@
 baseURL = "https://valvali.net/"
-languageCode = "fr-fr"
+languageCode = "fr_FR"
+defaultContentLanguage = 'fr'
 title = "Vali"
 theme = "hello-friend-ng"
 pagerSize     = 10
 
 [params]
   AuthorName = 'Vali'
-  dateform        = "Jan 17, 2021"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2021-17-01"
-  dateformNumTime = "2021-17-01 19:51"
+  DateForm = "2.1.2006"
 
   # Subtitle for home
   Subtitle = "Un gars sur Internet."
@@ -46,15 +44,19 @@ pagerSize     = 10
     tag      = "tags"
     series   = "series"
 
+[security]
+  enableInlineShortcodes = true
+
+
 [languages]
-  [languages.en]
+  [languages.fr]
     title = "Vali"
     subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
-    [languages.en.params.logo]
+    [languages.fr.params.logo]
       logoText = "Vali"
       logoHomeLink = "/"
     # or
