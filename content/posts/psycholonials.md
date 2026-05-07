@@ -7,6 +7,7 @@ images:
 tags:
   - psycholonials
   - jeu vidéo
+summary: "Mon avis sur Psycholonials, le visual novel d'Andrew Hussie (créateur d'Homestuck). Une histoire clivante en pleine pandémie mêlant critique du capitalisme, révolution et esthétique particulière."
 ---
 
 ### Mon avis sur Psycholonials

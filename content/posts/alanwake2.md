@@ -9,6 +9,7 @@ tags:
   - jeux vidéos
   - remedy
   - alanwake
+summary: "Une analyse sans spoilers (ou presque) d'Alan Wake 2, un des meilleurs jeux d'horreur de ces dernières années."
 ---
 Salut à tous. C’est le Spooky Month, le mois de l’horreur, de la paranoïa, de la creepiness et des meme sur [Mariah Carey qui dégèle](https://youtu.be/0dsLxqiSrKI)
 

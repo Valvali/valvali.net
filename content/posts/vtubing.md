@@ -8,6 +8,7 @@ tags:
   - vtubing
   - jeux vidéos
   - streamers
+summary: "Une introduction au monde du Vtubing : comprendre la différence entre Corpo et Indé, l'importance de ce masque numérique, et une petite sélection personnelle de vtubeur·euse·s à suivre."
 ---
 
 Bonjour, je suis Vali et ça fait environ 8 mois que j’ai une oshi, de par cette intro ressemblant aux alcooliques anonymes vous devez avoir plusieurs questions: qu’est ce qu’une oshi ? Pourquoi ton premier article depuis presque 4 ans parle de personnes anime sur internet ? Restez calmes on va en parler.

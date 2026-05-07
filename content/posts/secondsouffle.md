@@ -7,7 +7,7 @@ images:
 tags:
   - gtarp
   - jeux vidéos
-
+summary: "Retour sur ma première expérience GTA RP sur le serveur Second Souffle, la création de mon personnage Jean-Marc Elys, et mes réflexions sur le jeu."
 ---
 
 **DISCLAIMER :** Cet article à été écrit avant la sortie des [accusations](https://twitter.com/anon123004/status/1618678516207468545) vis à vis de 123lunatic et ne les cautionne pas ni ne le défend.

@@ -7,6 +7,7 @@ images:
 tags:
   - jeux vidéos
   - freeware
+summary: "Tu es pauvre ? Voici des jeux pour toi camarade."
 ---
 
 Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j'ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.

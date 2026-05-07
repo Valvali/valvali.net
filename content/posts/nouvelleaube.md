@@ -1,5 +1,5 @@
 ---
-title: "Nouvelle Aube : Mon expérience GTA RP"
+title: "Nouvelle Aube GTA RP : Mon expérience "
 date: 2026-05-07T20:39:17+02:00
 draft: false
 toc: false
@@ -7,6 +7,7 @@ images:
 tags:
   - gtarp
   - jeux vidéos
+summary: "Presque 5 ans après ma première expérience, retour sur le serveur GTA RP Nouvelle Aube. Je vous présente mon personnage, Michel Ermert, et comment cette aventure a changé ma vision du Roleplay sur GTA."
 ---
 
 Salut les kids, presque [5 ans](https://valvali.net/posts/secondsouffle/) après ma première expérience GTA RP avec du bon et du mauvais, je me suis retrouvé à nouveau sur un autre malentendu invité à participer à un projet éphémère de serveur GTA RP avec des streamers, créateurices de contenu et gens talentueux. Parlons donc de Nouvelle Aube, de ma perception du GTA RP à présent et surtout de ce sacré vieux briscard qu’est Michel ERMERT.
@@ -36,7 +37,9 @@ La progression de l’histoire de Michel s’est passé de manière naturelle, d
 L'interprétation de Michel pour ma part a été très différente de ce à quoi je m’attendais car étant un criminel je l’avais imaginé beaucoup plus violent à la base, ce qui n’est pas arrivé pour des raisons de convenances et de fair-play avec les autres joueurs, contrairement à d’autres GTA RP ou le monde criminel est plutôt violent, Nouvelle Aube avait une ambiance assumée de “groupe de potes qui s’amusent” et les règles étaient faites pour ne jamais oublier que ce sont des gens qui sont derrière les joueurs avant tout. Donc Michel est devenu forcément plus “light” ce qui ne l’a pas empêché d’être assez sinistre ou flippant par moment mais jamais trop longtemps ou dans l'excès. Il m’a même inspiré un rare texte du point de vue d’un personnage, ce que je ne fais pas souvent.
 
 <details>
-<summary>Michel n’arrivait pas à dormir.</summary>
+<summary><b>Texte RP ici, attention ça peut être sombre</b></summary>
+
+<em>Michel n’arrivait pas à dormir.
 
 Après tout ce qu’il s’était passé, il hésitait à fermer les yeux. Il craignait vraiment ce qui se passerait s’il baissait la garde une fois de plus. Le canapé de la base était aussi confortable que d'habitude, et ses déploiements dans l’armée, comme ses gardes de nuit au centre commercial, l’avaient habitué à bien pire.
 
@@ -56,7 +59,7 @@ Le Boss, Rubis, Stella, Ann, Noah, Dimitri et bien sûr le jeune Darwin. Trop st
 
 Le rôle des pères était de mourir pour leurs enfants. Si le sang devait être versé, ce serait le sien en priorité.
 
-Michel ne dormirait pas ce soir. Il prendrait un triple café le matin, des pilules, peut-être un remontant, et irait se remettre au travail pour sa nouvelle famille, en espérant ne pas la laisser tomber avant de tomber lui-même.
+Michel ne dormirait pas ce soir. Il prendrait un triple café le matin, des pilules, peut-être un remontant, et irait se remettre au travail pour sa nouvelle famille, en espérant ne pas la laisser tomber avant de tomber lui-même.</em>
 </details>
 
 Ainsi Michel est lui-même devenu une parodie, un peu comme les persos de GTA eux même sont des postiches de plusieurs archétypes. La ou Monsieur Ehrmantraut est franchement dangereux, Michel est plus orienté vieux monsieur radoteur qui préférera franchement ruminer sur Ronald Reagan et comment les jeunes d’aujourd’hui se choquent sur tout et rien et [qu’on ne peut plus rien dire…](https://www.twitch.tv/bloodylua/clip/BusyMuddyDogDatSheffy-YfrvQStNAtIGShSa)
