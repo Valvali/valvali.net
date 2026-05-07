@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Untagged on Vali</title>
-    <link>http://localhost:1313/tags/untagged/</link>
+    <link>https://valvali.net/tags/untagged/</link>
     <description>Recent content in Untagged on Vali</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 03 Oct 2025 16:02:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://valvali.net/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alan Wake 2 : Entre Océan et Spirale</title>
-      <link>http://localhost:1313/posts/alanwake2/</link>
+      <title>Alan Wake 2 : Perdu dans la Spirale</title>
+      <link>https://valvali.net/posts/alanwake2/</link>
       <pubDate>Fri, 03 Oct 2025 16:02:46 +0200</pubDate>
-      <guid>http://localhost:1313/posts/alanwake2/</guid>
+      <guid>https://valvali.net/posts/alanwake2/</guid>
       <description>&lt;p&gt;Salut à tous. C’est le Spooky Month, le mois de l’horreur, de la paranoïa, de la creepiness et des meme sur &lt;a href=&#34;https://youtu.be/0dsLxqiSrKI&#34;&gt;Mariah Carey qui dégèle&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Quoi de mieux pour vous parler d’un jeu que j’adore beaucoup après l’avoir terminé récemment et probablement mon jeu de l’année 2023 (je suis lent à finir les jeux d’horreur oui). Il s’agit bien sûr de Alan Wake 2. Asseyez vous, prenez un chocolat chaud ou tout autre boisson de votre choix, mettez votre meilleur &lt;a href=&#34;https://www.youtube.com/watch?v=nCn3LYqCnrk&#34;&gt;thème de Twin Peaks&lt;/a&gt; on va en parler.&lt;/p&gt;</description>
     </item>
   </channel>

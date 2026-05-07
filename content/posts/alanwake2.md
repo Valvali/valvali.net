@@ -1,11 +1,14 @@
 ---
 title: "Alan Wake 2 : Perdu dans la Spirale"
 date: 2025-10-03T16:02:46+02:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - horreur
+  - jeux vidéos
+  - remedy
+  - alanwake
 ---
 Salut à tous. C’est le Spooky Month, le mois de l’horreur, de la paranoïa, de la creepiness et des meme sur [Mariah Carey qui dégèle](https://youtu.be/0dsLxqiSrKI)
 

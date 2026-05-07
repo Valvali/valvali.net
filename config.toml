@@ -2,7 +2,7 @@ baseURL = "https://valvali.net/"
 languageCode = "fr_FR"
 defaultContentLanguage = 'fr'
 title = "Vali"
-theme = "hello-friend-ng"
+theme = "LoveIt"
 pagerSize     = 10
 
 [params]
@@ -23,21 +23,47 @@ pagerSize     = 10
   keywords = "vali, meme"
   images = [""]
 
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/Valvalidu57"
+  [params.social]
+    twitter = "Valvalidu57"
+    email = "superval57@hotmail.fr"
+    twitch = "valvali"
+    bluesky = "valvali.net"
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:superval57@hotmail.fr"
+  # LoveIt theme settings
+  [params.author]
+    name = "Vali"
+    link = "/about/about"
+    avatarURL = "/img/valiavatars.gif"
 
-  [[params.social]]
-    name = "twitch"
-    url  = "https://twitch.tv/valvali"
+  [params.header.title]
+    name = "Vali"
+    pre = ""
+    post = ""
 
-  [[params.social]]
-    name = "bluesky"
-    url  = "https://bsky.app/profile/valvali.net"
+  [params.home.profile]
+    enable = true
+    title = "Vali"
+    subtitle = "Un gars sur Internet."
+    avatarURL = "/img/valiavatars.gif"
+
+  [params.page]
+    toc.enable = true
+    math.enable = false
+    code.copy = true
+
+  [params.page.share]
+    enable = true
+
+  [params.footer]
+    enable = true
+    author = true
+    hugo = true
+    copyright = true
+    since = 2023
+
+  [params.search]
+    enable = true
+    type = "lunr"
 
 [taxonomies]
     category = "blog"
@@ -47,6 +73,12 @@ pagerSize     = 10
 [security]
   enableInlineShortcodes = true
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    noClasses = false
 
 [languages]
   [languages.fr]

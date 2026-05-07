@@ -1,0 +1,13 @@
+.home-profile .home-avatar img,
+.home[data-home=posts] .home-avatar img,
+.post-author-avatar {
+  width: 3.5rem !important;
+  max-width: 3.5rem !important;
+  height: auto !important;
+  border-radius: 50% !important;
+}
+
+.post-author-avatar {
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
