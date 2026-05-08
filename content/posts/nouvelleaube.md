@@ -102,7 +102,7 @@ Malheureusement, même si nous n'en sommes qu'au début et que le jeu vient à p
 
 # Remerciements
 
-Je tiens d’abord à remercier toute l’équipe derrière le projet [nouvelle aube](https://nouvelleaube.carrd.co/) qui a fait un travail formidable pendant toute la durée du serveur et mérite de se reposer pendant 1000 ans.
+Je tiens d’abord à remercier toute l’équipe derrière le projet [Nouvelle Aube](https://nouvelleaube.carrd.co/) qui a fait un travail formidable pendant toute la durée du serveur et mérite de se reposer pendant 1000 ans.
 
 Je tiens particulièrement à remercier tous les membres de Speranza :  
 * [XB23](https://x.com/_XB23_) qui a joué le role du boss avec brio
