@@ -1,0 +1,40 @@
+name: Déploiement Hugo vers OVH
+
+# Le script se lance à chaque fois que vous poussez sur la branche "main"
+on:
+  push:
+    branches:
+      - main  # Changez en "master" si votre branche principale s'appelle master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Récupère votre code source depuis GitHub
+      - name: Checkout du code
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # Indispensable si votre thème Hugo est un submodule Git
+          fetch-depth: 0
+
+      # 2. Installe la bonne version de Hugo
+      - name: Installation de Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      # 3. Génère le site (le dossier public/)
+      - name: Build avec Hugo
+        run: hugo --minify
+
+      # 4. Envoie le dossier public/ sur votre serveur via Rsync
+      - name: Déploiement Rsync vers le VPS
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.VPS_SSH_KEY }}
+          ARGS: "-avz --delete"
+          SOURCE: "public/"
+          REMOTE_HOST: ${{ secrets.VPS_HOST }}
+          REMOTE_USER: ${{ secrets.VPS_USER }}
+          TARGET: "/var/www/site/html/"
