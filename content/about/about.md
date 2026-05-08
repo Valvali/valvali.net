@@ -28,6 +28,8 @@ Grand fan de Pop Culture également, voici quelques uns de mes interets autistiq
 
 [*Undertale/Deltarune*](https://youtu.be/u5NqO2v_xnY)
 
+[*La saga Yakuza/Like a Dragon*](https://youtu.be/WQS4RMDbHvo)
+
 ## Les copaines
 
 - [Sylfare](https://sylfa.re/) : Un truc dangereux fan de lalafell woke qui fait du dev web et des plugins minecraft quand iel perd pas au minigolf sur Tower Unite.
