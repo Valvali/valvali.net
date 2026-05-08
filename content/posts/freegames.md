@@ -7,6 +7,7 @@ images:
 tags:
   - jeux vidéos
   - freeware
+summary: "Tu es pauvre ? Voici des jeux pour toi camarade."
 ---
 
 Salut à tous, en ces temps troublés de confinement/pas confinement et ou on passe beaucoup de temps à rester chez soi, j'ai donc décidé de vous donner une petite liste multigenre de jeux gratos, la plupart tournent même sur des patates et certains sont même FOSS (Free and Open Source Software) pour le plaisir.
@@ -67,13 +68,13 @@ Un jeu très fun qui demande un temps d’apprentissage avant de pouvoir vraimen
 
 Disponible en installant le client BYOND sur : http://www.byond.com/ (contactez moi si vous voulez essayer le jeu pour avoir des tutos, le jeu est en anglais a la base, mais des serveur Francais existent)
 
-A noter que des remakes du jeu, [Space Station 14](https://store.steampowered.com/app/1255460/Space_Station_14/) et [UnityStation](https://store.steampowered.com/app/801140/Unitystation/) sont à présent sur Steam si vous souhaitez ne pas installer de client externe
+A noter que des remakes du jeu, [Space Station 14](https://store.steampowered.com/app/1255460/Space_Station_14/) et [UnityStation](https://store.steampowered.com/app/801140/Unitystation/) sont à présent sur Steam si vous souhaitez ne pas installer de client externe.
 
-## Counter Strike : Global Offensive
+## Counter Strike 2
 
-![CSGO](/img/csgo.jpg)
+![CS2](/img/cs2.jpg)
 
-Inutile de présenter Counter-Strike, le FPS compétitif par excellence, il tourne sur toutes les configs et vous garantira des soirées remplies de sel ou de surf.
+Inutile de présenter Counter-Strike, le FPS compétitif par excellence, il tourne sur quasi toutes les configs et vous garantira des soirées remplies de sel ou de surf.
 
 Disponible gratuitement sur Steam. (Disponible en FR)
 
@@ -122,7 +123,7 @@ Disponible sur https://xonotic.org/ (Disponible en FR)
 
 ![doom](/img/doom.jpg)
 
-Zdoom est un port open source du moteur de DOOM 1 et 2, des FPS qu'on ne présente plus. Ce dernier est compatible avec de nombreux mods comme Brutal DOOM et des campagnes comme Freedoom
+Zdoom est un port open source du moteur de DOOM 1 et 2, des FPS qu'on ne présente plus. Ce dernier est compatible avec de nombreux mods comme Brutal DOOM et des campagnes comme Freedoom.
 
 Le tout est disponible ici : [Zdoom](https://zdoom.org/downloads), [Freedoom](https://freedoom.github.io/download.html), [Brutal Doom](https://www.moddb.com/mods/brutal-doom)
 
@@ -163,7 +164,7 @@ Disponible sur https://supertuxkart.net/Main_Page
 
 ![0 A.D](/img/0ad.jpg)
 
-0 A.D. est un clone de Age of Empires qui a évolué pour devenir un véritable jeu open source avec plus de 13 civilisations jouables chacunes avec leur style de jeu différent. Un excellent jeu pour les fans de stratégie en temps réel
+0 A.D. est un clone de Age of Empires qui a évolué pour devenir un véritable jeu open source avec plus de 13 civilisations jouables chacunes avec leur style de jeu différent. Un excellent jeu pour les fans de stratégie en temps réel.
 
 Disponible sur https://play0ad.com/ 
 
@@ -187,9 +188,16 @@ Disponible sur https://veloren.net/ (Traduction FR disponible)
 ![The Genesis Project](/img/genesisproject.png)
 
 Si vous êtes sur Internet depuis un certain temps, vous devez avoir entendu parler du webcomic Homestuck, ou des enfants jouent a un jeu qui provoque la fin du monde. 
-The Genesis Project est une recréation de ce jeu qui s’appelle SBURB, un hybride de RPG, jeu de construction et de survie jouable en multijoueur. Le jeu étant en développement actif il manque encore pas mal de contenu, mais en tant qu’adaptation d’Homestuck, c’est un sans faute. Le seul problème étant que le jeu n'est évidemment pas encore terminé et a encore du chemin à faire avant de terminer son développement
+The Genesis Project est une recréation de ce jeu qui s’appelle SBURB, un hybride de RPG, jeu de construction et de survie jouable en multijoueur. Le jeu étant en développement actif il manque encore pas mal de contenu, mais en tant qu’adaptation d’Homestuck, c’est un sans faute. Le seul problème étant que le jeu n'est évidemment pas encore terminé et a encore du chemin à faire avant de terminer son développement.
 
 Disponible sur https://www.sburb.me/ (Disponible en Anglais uniquement)
+
+## Daggerfall Unity
+![Daggerfall Unity](/img/daggerfallunity.png)
+
+Vous connaissez surement The Elder Scrolls, en tout cas Skyrim. Daggerfall Unity est une recréation pour OS modernes du deuxième opus, bien plus grand et ambitieux que ce que propose Bethesda aujourd’hui. C'est gratuit et bien sur, c'est [moddable](https://www.nexusmods.com/daggerfallunity).
+
+Disponible sur https://www.dfworkshop.net/ (Disponible en Anglais uniquement)
 
 ## Epic Games Store
 

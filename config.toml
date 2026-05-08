@@ -1,15 +1,13 @@
 baseURL = "https://valvali.net/"
-languageCode = "fr-fr"
+languageCode = "fr_FR"
+defaultContentLanguage = 'fr'
 title = "Vali"
-theme = "hello-friend-ng"
+theme = "LoveIt"
 pagerSize     = 10
 
 [params]
   AuthorName = 'Vali'
-  dateform        = "Jan 17, 2021"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2021-17-01"
-  dateformNumTime = "2021-17-01 19:51"
+  DateForm = "2.1.2006"
 
   # Subtitle for home
   Subtitle = "Un gars sur Internet."
@@ -25,36 +23,74 @@ pagerSize     = 10
   keywords = "vali, meme"
   images = [""]
 
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/Valvalidu57"
+  [params.social]
+    twitter = "Valvalidu57"
+    email = "superval57@hotmail.fr"
+    twitch = "valvali"
+    bluesky = "valvali.net"
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:superval57@hotmail.fr"
+  # LoveIt theme settings
+  [params.author]
+    name = "Vali"
+    link = "/about/about"
+    avatarURL = "/img/valiavatars.gif"
 
-  [[params.social]]
-    name = "twitch"
-    url  = "https://twitch.tv/valvali"
+  [params.header.title]
+    name = "Vali"
+    pre = ""
+    post = ""
 
-  [[params.social]]
-    name = "bluesky"
-    url  = "https://bsky.app/profile/valvali.net"
+  [params.home.profile]
+    enable = true
+    title = "Vali"
+    subtitle = "Un gars sur Internet."
+    avatarURL = "/img/valiavatars.gif"
+
+  [params.page]
+    toc.enable = true
+    math.enable = false
+    code.copy = true
+
+  [params.page.share]
+    enable = true
+
+  [params.footer]
+    enable = true
+    author = true
+    hugo = true
+    copyright = true
+    since = 2023
+
+  [params.search]
+    enable = true
+    type = "lunr"
 
 [taxonomies]
     category = "blog"
     tag      = "tags"
     series   = "series"
 
+[security]
+  enableInlineShortcodes = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
 [languages]
-  [languages.en]
+  [languages.fr]
     title = "Vali"
     subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
-    [languages.en.params.logo]
+    [languages.fr.params.logo]
       logoText = "Vali"
       logoHomeLink = "/"
     # or

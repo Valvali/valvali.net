@@ -7,6 +7,7 @@ images:
 tags:
   - cyberpunk
   - jeu vidéo
+summary: "Mon avis sur Cyberpunk 2077 à sa sortie. Entre bugs omniprésents, immersion brisée et dissonance ludo-narrative, retour sur les problèmes fondamentaux d'un jeu qui aurait pu être bien plus grand."
 ---
 
 ### (C’est pas un test il n’y aura pas de note à la fin calmez vous)

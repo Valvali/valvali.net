@@ -1,23 +1,50 @@
 ---
-title: "Vali"
+title: "Qui est Vali ?"
 date: 2021-01-17T20:11:22+01:00
 draft: false
 ---
 
 On m'appelle Vali, j'ai 29 ans et j'aime les meme, la malbouffe et les Jeux Vidéos. Quelquefois j'écris des trucs.
 
-> "*Vous savez, moi je ne crois pas qu'il y ait de bonne ou de mauvaise situation. Moi, si je devais résumer ma vie aujourd'hui avec vous, je dirais que c'est d'abord des rencontres. Des gens qui m'ont tendu la main, peut-être à un moment où je ne pouvais pas, où j'étais seul chez moi. Et c'est assez curieux de se dire que les hasards, les rencontres forgent une destinée... Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas l'interlocuteur en face je dirais, le miroir qui vous aide à avancer. Alors ça n'est pas mon cas, comme je disais là, puisque moi au contraire, j'ai pu : et je dis merci à la vie, je lui dis merci, je chante la vie, je danse la vie... je ne suis qu'amour ! Et finalement, quand beaucoup de gens aujourd'hui me disent « Mais comment fais-tu pour avoir cette humanité ? », et bien je leur réponds très simplement, je leur dis que c'est ce goût de l'amour ce goût donc qui m'a poussé aujourd'hui à entreprendre une construction mécanique, mais demain qui sait ? Peut-être simplement à me mettre au service de la communauté, à faire le don, le don de soi...*"     
--Otis, le scribe
+Grand fan de Pop Culture également, voici quelques uns de mes interets autistiques favoris :
 
-## Les copains/copines
+[*Warframe*](https://www.youtube.com/shorts/yyKFH8W0hlo?feature=share)
 
-- [oräkle](https://www.orakle.eu/) : sysadmin en formation, MUITO REAL
+[*Garry's Mod*](https://youtu.be/blb7DejmklY)
 
-- [Lekter](https://lekter.orakle.eu/) : écrivain/traducteur sur la Fondation SCP, contributeur sur Wikipédia.
+[*Final Fantasy XIV*](/img/ffxiv.jpg)
+
+[*Half-Life*](https://www.youtube.com/watch?v=vDUYLDtC5Qw&list=PLglTodSj6fQGbLTtPF_YXVJ6TKSaC3O02)
+
+[*World of Warcraft*](/img/wow.jpg)
+
+[*Star Citizen*](/img/jdg.jpg)
+
+[*Mr. Robot*](/img/mrrobot.jpg)
+
+[*Evangelion*](https://youtu.be/fIp4VPJ__MY)
+
+[*L'horreur sur internet (Les backrooms, Marble Hornets, INTERLOPER, les ARG ,etc...)*](/img/validup.mp4)
+
+[*Undertale/Deltarune*](https://youtu.be/u5NqO2v_xnY)
+
+[*La saga Yakuza/Like a Dragon*](https://youtu.be/WQS4RMDbHvo)
+
+## Les copaines
+
+- [Sylfare](https://sylfa.re/) : Un truc dangereux fan de lalafell woke qui fait du dev web et des plugins minecraft quand iel perd pas au minigolf sur Tower Unite.
+
+- [Maegnifique](https://www.youtube.com/@Maegnifique) : Une meuf bien cool qui parle de JV et VTube parfois.
+
+- [DemiurgeCrystallin](https://bsky.app/profile/demiurgecrystallin.bsky.social) : Copain qui a des OC de qualité. Fan de SMT, de Nintendo et de Minecraft, ce qui en fait ~~un suceur de corpos~~ une personne de gout.
+
+- [Gil](https://bsky.app/profile/leblouson.bsky.social) : Dessinateur talentueux, furry mais il m'a dit que ce n'est pas contagieux (je crois).
+
+- [Krokonut](https://krokonut.carrd.co/) : Un copain Graphiste qui se forme en ce moment à faire des Jeux Vidéos. Pas raciste (je crois).
 
 - [Silk](https://caesiumm.itch.io/) : développeur de jeux amateurs.
 
-- [Steinman](https://www.twitch.tv/steinman78/) : level designer/game dev de qualité, stream son travail sur twitch de temps en temps
+- [Steinman](https://www.twitch.tv/steinman78/) : level designer/game dev de qualité, stream son travail sur twitch de temps en temps.
 
 - [Abibeur](https://abibeur.github.io/) : Traducteur de Vast Error, un webcomic, et de contenus provenant de la Fondation SCP.
 
