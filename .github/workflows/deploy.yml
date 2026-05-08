@@ -4,7 +4,7 @@ name: Déploiement Hugo vers OVH
 on:
   push:
     branches:
-      - main  # Changez en "master" si votre branche principale s'appelle master
+      - master  # Changez en "master" si votre branche principale s'appelle master
 
 jobs:
   build-and-deploy:
