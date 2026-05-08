@@ -1,0 +1,16 @@
+# Fichiers et dossiers générés par Hugo
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Dépendances (si vous utilisez des modules npm ou des thèmes particuliers)
+node_modules/
+package-lock.json
+
+# Fichiers temporaires ou spécifiques aux éditeurs
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.vscode/
+.idea/
