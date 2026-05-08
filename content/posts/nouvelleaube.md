@@ -7,18 +7,22 @@ images:
 tags:
   - gtarp
   - jeux vidéos
-summary: "Presque 5 ans après ma première expérience, retour sur le serveur GTA RP Nouvelle Aube. Je vous présente mon personnage, Michel Ermert, et comment cette aventure a changé ma vision du Roleplay sur GTA."
+summary: "Presque 5 ans après ma première expérience, sur le serveur GTA RP Nouvelle Aube. Je vous présente mon personnage, Michel Ermert, et comment cette aventure a changé ma vision du Roleplay sur GTA."
 ---
 
 Salut les kids, presque [5 ans](https://valvali.net/posts/secondsouffle/) après ma première expérience GTA RP avec du bon et du mauvais, je me suis retrouvé à nouveau sur un autre malentendu invité à participer à un projet éphémère de serveur GTA RP avec des streamers, créateurices de contenu et gens talentueux. Parlons donc de Nouvelle Aube, de ma perception du GTA RP à présent et surtout de ce sacré vieux briscard qu’est Michel ERMERT.
 
+![Toute ressemblance avec un personnage existant est fortuite](/img/nouvelleaube_cover.png)
+
 Il faut savoir que j’abordais ce projet avec une certaine méfiance héritée de ma première expérience — donc la première chose qui m'a frappé, c'est que le serveur lui-même était pensé différemment.
 
-## L’organisation du Serveur
+# L’organisation du Serveur
 
 Le serveur Nouvelle Aube avait un fonctionnement différent d’autres serveurs du même genre. Premièrement il avait des horaires précis d’ouverture et même un jour de fermeture dans la semaine pour permettre à tous de respirer. Ce changement était plus qu’apprécié par tous les joueurs et le staff car il permettait d’éviter le FOMO habituel du GTA RP, pas besoin de flipper pour ce qui arriverait à son groupe ou aux personnages avec qui on a tissé des liens pendant qu’on est au travail ou occupé car le serveur n’ouvre qu'en milieu d'après midi jusqu'à la nuit hors des week-end.
 
-## La création d’un personnage
+![Le gang presque au complet](/img/nouvelleaube1.png)
+
+# La création d’un personnage
 
 Le serveur avait une documentation assez complète sur les bases du RP et la création de personnage, j'avais déjà quelques idées en tête suite à ma dernière expérience avec un personnage passif : 
 
@@ -28,13 +32,23 @@ Le serveur avait une documentation assez complète sur les bases du RP et la cr�
 
 Avec tout cela en tête je me suis dit que j’allais tenter de créer un personnage basé sur un archétype que j’ai rarement vu en GTA RP et correspondrait un peu à ma personnalité, Michel Ermert, largement inspiré du personnage de Mike Ehrmantraut de l’univers Breaking Bad. Ce serait un homme taciturne, traumatisé par la guerre et ayant totalement foiré sa vie de famille, déprimé et en quête d’argent facile, il se dirige vers Los Santos pour être recruté dans Speranza, une Mafia locale qui trempe dans le piratage et la production et trafic de drogue.
 
-## Les aventures de Michel
+![Il aura farm dans le plus grand des calmes](/img/nouvelleaube2.png)
+
+# Les aventures de Michel
 
 Comment vous résumer tout ce qu’il s’est passé pendant ces 3 semaines ? Ce serait difficile de tout vous dire mais disons que Michel a vite du s’adapter à la folie ambiante de Los Santos, entre moments dramatiques ou de tension criminelles comme l’attaque d’un convoi ou un [Fight Club d’anthologie](https://medal.tv/fr/games/gta-v/clips/mlrZTw3FMlAgB6g3R?invite=cr-MSx6ZHIsNTY3ODMxNzE3&v=120) mais également des moments de légereté comme [découvrir l’omegaverse](https://www.twitch.tv/lyzanewe/clip/UnsightlyHandsomeOilKappaWealth-kMr0EWyO1a8cw-If) ou [boire un cocktail très spécial](https://medal.tv/games/gta-v/clips/moKw5N64SmOge0O7I?invite=cr-MSxrOHksNTY3ODMxNzE3).
 
+![On s'est pas fait jeter en taule après cette image c'est faux](/img/nouvelleaube4.png)
+
 La progression de l’histoire de Michel s’est passé de manière naturelle, d’abord orienté business il a tissé des liens avec sa nouvelle “Famille” et s’est décidé à rester auprès d’eux malgrès qu’il ait obtenu suffisamment d’argent pour ne plus rester à Los Santos, c’était une histoire simple pour un personnage qui avait des difficultés à s’intégrer à pas mal de situations mais qui a été bien aidé par les autres joueurs, que ce soit du côté criminel ou policier, chaque joueur était impliqué dans son rôle et faisait de son mieux pour proposer des histoires intéressantes tout en restant fair-play la plupart du temps.
 
+![Bon on a peut etre fini en taule](/img/nouvelleaube5.png)
+
 L'interprétation de Michel pour ma part a été très différente de ce à quoi je m’attendais car étant un criminel je l’avais imaginé beaucoup plus violent à la base, ce qui n’est pas arrivé pour des raisons de convenances et de fair-play avec les autres joueurs, contrairement à d’autres GTA RP ou le monde criminel est plutôt violent, Nouvelle Aube avait une ambiance assumée de “groupe de potes qui s’amusent” et les règles étaient faites pour ne jamais oublier que ce sont des gens qui sont derrière les joueurs avant tout. Donc Michel est devenu forcément plus “light” ce qui ne l’a pas empêché d’être assez sinistre ou flippant par moment mais jamais trop longtemps ou dans l'excès. Il m’a même inspiré un rare texte du point de vue d’un personnage, ce que je ne fais pas souvent.
+
+![Le crime ça paie parfois](/img/nouvelleaube3.png)
+
+
 
 <details>
 <summary><b>Texte RP ici, attention ça peut être sombre</b></summary>
@@ -64,13 +78,29 @@ Michel ne dormirait pas ce soir. Il prendrait un triple café le matin, des pilu
 
 Ainsi Michel est lui-même devenu une parodie, un peu comme les persos de GTA eux même sont des postiches de plusieurs archétypes. La ou Monsieur Ehrmantraut est franchement dangereux, Michel est plus orienté vieux monsieur radoteur qui préférera franchement ruminer sur Ronald Reagan et comment les jeunes d’aujourd’hui se choquent sur tout et rien et [qu’on ne peut plus rien dire…](https://www.twitch.tv/bloodylua/clip/BusyMuddyDogDatSheffy-YfrvQStNAtIGShSa)
 
-## Le GTA RP et Moi
+![Il est caché](/img/nouvelleaube6.png)
+
+# Le GTA RP et Moi
 
 Il est facile à dire que Nouvelle Aube a changé ma vision du GTA RP, l’expérience n’était pas parfaite mais l’intégration à un groupe, le gameplay plus dynamique et le FOMO beaucoup plus réduit ont fait que cette expérience était bien plus appréciable que mon autre grosse expérience GTA RP. Il y a eu de nombreux joueurs.ses tous.tes talentueux.ses avec des personnages parfois hilarants, parfois touchants et quelquefois franchement sinistres. Des personnages plus humains qu’autre chose avec des bons et des mauvais moments, et se dire que mon personnage de vieux con ruminant, violent et déprimé a pu influer sur certains est formidable.
 
-Que dire pour la suite ? Je vais laisser la team derrière le projet se reposer, surtout que [certains](https://www.youtube.com/watch?v=VQRLujxTm3c&pp=ygUGZ3RhIHZp) autres [projets](https://www.youtube.com/watch?v=CrkSYwxpSDo) qui pourraient changer la vue du RP arrivent bientôt. En tout cas, je garderai un bon souvenir de Michel et de toutes ses rencontres.
+![La fin de l'aventure](/img/nouvelleaube7.png)
 
-## Remerciements
+# Le futur du RP ?
+
+Que dire pour la suite ? Je vais laisser la team derrière le projet se reposer, surtout que [certains](https://www.youtube.com/watch?v=VQRLujxTm3c&pp=ygUGZ3RhIHZp) autres [projets](https://www.youtube.com/watch?v=CrkSYwxpSDo) qui pourraient changer la vue du RP arrivent bientôt. Parlons en vite fait.
+
+Il est impossible de parler du futur du Roleplay sans évoquer le petit jeu par une équipe indépendante [qui n'aime pas les syndicats](https://www.bbc.com/news/articles/cp89990rgdno) qui se profile à l'horizon : **GTA VI**. Le rachat officiel de l'équipe Cfx.re (les créateurs de FiveM et RedM) par Rockstar Games en 2023 n'est pas anodin. Ni le fait que l'équipe originale du mod se soit [potentiellement fait évincer apres les manipulations de certains dans cette dernière.](https://fivem.team/) On peut s'attendre à une intégration native (ou du moins officiellement soutenue) des outils de création de serveurs pour le mode multijoueur, ce qui signifierait la fin des bidouillages complexes pour faire tourner un serveur stable. Cela signifierait aussi que Rockstar et leurs actionnaires auraient beaucoup plus de pouvoir sur ce qui est autorisé sur les serveurs RP, il faudra donc s'attendre à beaucoup plus de censure et de restrictions en tout genre, ce qui est deja le cas en partie sur FiveM. Mais pour finir sur une note intéressante, les fuites sur le jeu montrent qu'il aura un environnement beaucoup plus vaste, avec énormément d'intérieurs et de possibilités pour l'immersion dans le gameplay.
+
+![Comment ca ca tourne sur la PS5 ça ?](/img/vicecity.jpg)
+
+
+De l'autre côté du spectre, nous avons **S&Box**, le nouveau bac à sable de Facepunch Studios (les papas de Garry's Mod) tournant sous le moteur Source 2. Si GTA limite le RP à un contexte urbain contemporain, S&Box promet une flexibilité absolue grâce à sa programmation en C# et ses outils de création ultra-puissants.
+Malheureusement, même si nous n'en sommes qu'au début et que le jeu vient à peine de sortir. Les premiers retours ne sont pas bons, le structure Roblox et la monétisation intensifiée par rapport à Garry's Mod font que beaucoup des "jeux" proposés sont de l'AI Slop ou des projets en développement très tôt. De plus le ticket d'entrée à 20 balles comparés a d'autres plateformes gratuites ou moins cher ne convaincra pas tout le monde, sans oublier que l'opti est encore à revoir en général. Il faudra voir ce que l'avenir nous réserve pour celui la même si il commence avec des difficultés.
+
+![Et la DA en mode sausage man c'est un peu dégueu](/img/s&box.jpg)
+
+# Remerciements
 
 Je tiens d’abord à remercier toute l’équipe derrière le projet [nouvelle aube](https://nouvelleaube.carrd.co/) qui a fait un travail formidable pendant toute la durée du serveur et mérite de se reposer pendant 1000 ans.
 
@@ -86,4 +116,9 @@ Je tiens particulièrement à remercier tous les membres de Speranza :
 * Et enfin [YKS](https://www.twitch.tv/yks_zz/about) qui jouait Poppy Bird, la vendeuse d’arme qui même si elle ne faisait pas partie du gang est devenue membre honoraire grâce à sa capacité à SLAYYY
 * Sans oublier tous les autres joueurs et joueuses crimi ou civils, vous aviez tous l’air d’avoir eu des expériences et caractères bien a vous et j’aurais aimé découvrir tous vos persos, mais ca sera pour une autre fois.
 
+![Gang Gang !](/img/nouvelleaube8.png)
+
+
 Allez, on va préparer un [prochain perso](https://www.youtube.com/watch?v=870j0RZhRD4) et attendre GTA VI, Squadron 42 et Half-Life 3 pendant ce temps…
+
+
