@@ -1,0 +1,9 @@
+<span class="current-time"></span><script>
+(function() {
+    var elements = document.getElementsByClassName('current-time');
+    if (elements.length > 0) {
+        var lastElement = elements[elements.length - 1];
+        lastElement.innerText = new Date().toLocaleTimeString('fr-FR', {hour: '2-digit', minute:'2-digit'});
+    }
+})();
+</script>

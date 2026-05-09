@@ -42,9 +42,7 @@ Plus intéressant encore, les niveaux de lecture de Alan Wake 2 sont multiples e
 
 ![Une ligne de métro vide dans Alan Wake 2 "Trouve Alice" est tagué en anglais sur un mur](/img/alanwake5.jpg)
 
-Le fil est facile à perdre avec Alan Wake 2, plus j’avance et plus je me perds dans cette spirale, à observer, essayer de comprendre ce magnifique univers connecté qui semble avoir été créé pour arriver à ce jeu, il est 00:22 à l’heure ou j’écris ces lignes mais peut être est-il vraiment {{< date.inline ":date_short" >}}
-  {{- now | time.Format ":time_short" -}}
-{{< /date.inline >}} ? Le temps m’échappe, le fil de mes pensées devient confus, prenons un moment pour faire le tour.
+Le fil est facile à perdre avec Alan Wake 2, plus j’avance et plus je me perds dans cette spirale, à observer, essayer de comprendre ce magnifique univers connecté qui semble avoir été créé pour arriver à ce jeu, il est 00:22 à l’heure ou j’écris ces lignes mais peut être est-il vraiment {{< current_time >}} ? Le temps m’échappe, le fil de mes pensées devient confus, prenons un moment pour faire le tour.
 
 ## Références et Digressions, perdu dans la spirale
 
