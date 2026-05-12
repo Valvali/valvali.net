@@ -110,3 +110,7 @@ enableGitInfo = true
     identifier = "posts"
     name       = "Trucs"
     url        = "/posts"
+ [[menu.main]]
+    identifier = "freegames"
+    name       = "Jeux Gratuits"
+    url        = "/posts/freegames"
