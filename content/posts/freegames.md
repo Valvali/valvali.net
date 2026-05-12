@@ -40,7 +40,7 @@ Un launcher est disponible ici : [Launcher Cataclysm](https://github.com/remyroy
 
 Dans ce TPS Multijoueur, vous incarnez un Tenno, un ninja de l’espace chargé de protéger le système solaire. Le gameplay est rythmé, le système de builds et de crafting sont bien foutus et le cash shop n’est pas du tout nécessaire. Le farming intensif nécessaire pour progresser dans la quête principale est peut-être un peu trop long mais bon, c’est un jeu de farm après tout.
 
-Disponible gratuitement sur Steam, Switch, PS4, PS5 et Xbox. (Disponible en FR)
+Disponible gratuitement sur [Steam](https://store.steampowered.com/app/230410/Warframe/), Switch, PS4, PS5 et Xbox. (Disponible en FR)
 
 ## Freeciv
 
@@ -76,7 +76,7 @@ A noter que des remakes du jeu, [Space Station 14](https://store.steampowered.co
 
 Inutile de présenter Counter-Strike, le FPS compétitif par excellence, il tourne sur quasi toutes les configs et vous garantira des soirées remplies de sel ou de surf.
 
-Disponible gratuitement sur Steam. (Disponible en FR)
+Disponible gratuitement sur [Steam](https://store.steampowered.com/app/730/CounterStrike_2/). (Disponible en FR)
 
 ## Crusader Kings 2
 
@@ -84,7 +84,7 @@ Disponible gratuitement sur Steam. (Disponible en FR)
 
 Crusader Kings 2 est un jeu de grande stratégie ou vous incarnez non pas un royaume, mais un monarque dans le temps des croisades, a vous de faire des complots pour étendre votre pays, faire des guerre, ou tout simplement tenter de séduire la femme de vos rivaux politiques. Un des jeux les plus complets qui soit et il est maintenant gratuit, c’est beau.
 
-Disponible gratuitement sur Steam. (Disponible en FR)
+Disponible gratuitement sur [Steam](https://store.steampowered.com/app/203770/Crusader_Kings_II/). (Disponible en FR)
 
 ## Path of Exile
 
@@ -92,7 +92,7 @@ Disponible gratuitement sur Steam. (Disponible en FR)
 
 Path of Exile est un Hack and Slash gratuit reprenant le gameplay du mastodonte Diablo 2, exilé dans le continent de Wraeclast, vous devrez trancher, annihiler, détruire, exploser tous les ennemis qui se trouvent sur votre chemin afin d’obtenir du loot et de l’XP pour tuer encore plus vite.
 
-Disponible gratuitement sur Steam. (Disponible en FR)
+Disponible gratuitement sur [Steam](https://store.steampowered.com/app/238960/Path_of_Exile/). (Disponible en FR)
 
 ## Dota 2
 
@@ -100,7 +100,7 @@ Disponible gratuitement sur Steam. (Disponible en FR)
 
 Dota 2 est la suite du premier MOBA de l’histoire, choisissez parmi une ribambelle de héros avant d’aller vous battre pour détruire le nexus adverse pour au final vous faire ridiculiser par un Russe avec 300 de ping qui spam Remove Kebab en chat vocal.
 
-Disponible gratuitement sur Steam. (Disponible en FR)
+Disponible gratuitement sur [Steam](https://store.steampowered.com/app/570/Dota_2/). (Disponible en FR)
 
 ## Team Fortress 2
 
@@ -108,7 +108,7 @@ Disponible gratuitement sur Steam. (Disponible en FR)
 
 Team Fortress 2 est un FPS arcade où vous pourrez choisir entre 9 classes avec chacune leur spécialité pour vous mettre sur la gueule, entre le Spy qui se déguise et sabote l’équipe adverse par derrière, le Heavy et sa grosse Gatling ou encore le Medic qui heal tout ce beau monde, toujours joué après des années et totalement gratuit, que dire de plus ?
 
-Disponible gratuitement sur Steam. (Disponible en FR)
+Disponible gratuitement sur [Steam](https://store.steampowered.com/app/440/Team_Fortress_2/). (Disponible en FR)
 
 ## Xonotic
 
