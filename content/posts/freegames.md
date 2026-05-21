@@ -199,6 +199,20 @@ Vous connaissez surement The Elder Scrolls, en tout cas Skyrim. Daggerfall Unity
 
 Disponible sur https://www.dfworkshop.net/ (Disponible en Anglais uniquement)
 
+## Psycholonials
+![Psycholonials](/img/psycholonials.jpg)
+
+Pour en revenir sur [Homestuck](https://www.youtube.com/watch?v=OF-ODqNdooU), l'auteur de ce webcomic à publié en 2021 Psycholonials, un visual novel bien plus digeste que le comic situé dans son propre univers. Dedans on suit Z, une créatrice de contenu qui va profiter du confinement pour lancer un mouvement qui va devenir bien trop gros pour elle. Je ne spoilerais pas plus, c'est pas si long, la DA est particulière et l'histoire bien qu'un peu rushée est assez intéressante.
+
+Disponible sur [Steam](https://store.steampowered.com/app/1529810/Psycholonials/) et sur [Téléphones](https://www.psycholonials.com/french) (Disponible en FR)
+
+## Voices of the Void
+![Voices of the Void](/img/votv.png)
+
+Pour une fois un jeu en Early Access MAIS un sacré morceau. Voices of the Void est un jeu d'horreur basé sur la paranoïa. Vous y incarnez le Docteur Kel, un astronome envoyé dans un observatoire reculé en Suisse pour y obtenir des signaux venu de l'espace, frontière de l'infini. Le gameplay est assez lent, avec des tâches simples à réaliser comme obtenir des signaux avec des équipements bien trop vieux, nettoyer la porcherie qu'est sa base et se balader dans la superbe nature Suisse. Puis arrivera l'horreur, et si vous êtes comme moi vous aurez du mal à dormir la nuit, je recommande grandement.
+
+Disponible sur https://votv.dev/ (Traduction Française disponible)
+
 ## Epic Games Store
 
 ![EGS](/img/egs.png)
