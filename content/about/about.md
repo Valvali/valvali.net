@@ -4,7 +4,7 @@ date: 2021-01-17T20:11:22+01:00
 draft: false
 ---
 
-On m'appelle Vali, j'ai 29 ans et j'aime les meme, la malbouffe et les Jeux Vidéos. Quelquefois j'écris des trucs.
+On m'appelle Vali, j'ai 30 ans et j'aime les meme, la malbouffe et les Jeux Vidéos. Quelquefois j'écris des trucs.
 
 Grand fan de Pop Culture également, voici quelques uns de mes interets autistiques favoris :
 
